@@ -1,4 +1,4 @@
-# **Apps to use**
+#Apps to use
 
 ## DrawBot:
 a free macOS app where you write simple Python scripts to generate 2D graphics. In type design, people often use it to make proofs, specimens, visual tests, PDFs, images, and sometimes animations.
