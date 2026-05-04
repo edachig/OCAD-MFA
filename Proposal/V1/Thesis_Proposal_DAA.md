@@ -1,6 +1,5 @@
 # Typographic Archives of Latino Life: New Media Alphabets in Southwestern Ontario
 
-**Expanded Thesis Proposal with Heidelberg Windmill Poster Process**  
 **Daniel Achig-Aranha**  
 **OCAD University, Interdisciplinary Master’s in Art, Media and Design**  
 **May 2026**
@@ -11,35 +10,38 @@
 
 ## Working central question
 
-How can co-designed alphabets developed with Latino residents along the London-Sarnia corridor document everyday life, challenge dominant assumptions about typographic quality and multilingual readability, and support ethical forms of visibility and representation?
+How can co-designed alphabets developed with Latino residents along the London-Sarnia corridor document everyday life, challenge dominant assumptions about typographic quality, and support ethical forms of visibility and representation?
 
 ## Project summary
 
-This thesis is a research-creation project about typography, Latino life, memory, place, and ethical representation in Southwestern Ontario. It proposes the design of co-created alphabets with Latino participants who live, work, commute, study, worship, shop, organize, and build community along the London-Sarnia corridor. The project treats typography not only as a formal design output, but also as a method of listening, collecting, translating, testing, and making visible situated forms of experience.
+This thesis is a research-creation project about typography, Latino life, memory, place, material process, and ethical representation in Southwestern Ontario. It proposes the design of co-created Latin alphabets with Latino participants who live, work, commute, study, worship, shop, organize, and build community along the London-Sarnia corridor. The project treats typography not only as a formal design output, but also as a method of listening, collecting, translating, testing, drawing, programming, and making visible situated forms of experience.
 
-The project has developed through five interconnected inquiries: typography as archive; who defines good typography; typographic mechanics and multilingual reading; ethical visibility; and corridor life as visual ecology. Together, these inquiries allow the thesis to move between theory, form, method, material process, and lived geography. The alphabet becomes a site where stories, vernacular signs, multilingual habits, migration memories, labour routes, storefront graphics, domestic objects, handwritten marks, devotional images, transit rhythms, and digital communication can be studied through design.
+The project has developed through six interconnected areas of exploration: typography as archive; who defines good typography; typographic mechanics and Latin alphabet construction; ethical visibility; corridor life as visual ecology; and traditional printing processes as methods of expression. Together, these areas allow the thesis to move between theory, form, method, material process, craft knowledge, and lived geography. The alphabet becomes a site where stories, vernacular signs, migration memories, labour routes, storefront graphics, domestic objects, handwritten marks, devotional images, transit rhythms, digital communication, and printmaking processes can be studied through design.
 
-A major development in this expanded proposal is the inclusion of a Heidelberg Windmill Platen Press poster process. In addition to digital type design, variable font testing, type specimens, and motion experiments, the thesis will produce a series of letterpress posters using the co-designed alphabet. These posters will be produced through a supervised printmaking process on an Original Heidelberg Tiegel or Windmill Platen Press, using relief printing methods, ink, paper, pressure, registration, editioning, and material documentation as part of the research. This process is important because it transforms the alphabet from a digital font into a physical, pressure-based, reproducible artifact. The printed posters will not simply display the alphabet. They will test how typographic form changes when it is translated through plate, ink, paper, impression, texture, misregistration, repetition, and public exhibition.
+A central part of the project is the development of a co-created Latin alphabet as a working typographic system. This process will involve studying typographic mechanics such as stroke logic, contrast, rhythm, spacing, proportion, weight, scale, hierarchy, texture, kerning, and the relationship between individual glyphs and the full alphabet. Participant references, conversations, visual materials, and mapped experiences will inform the formal decisions of the alphabet. These references will then be translated into sketches, digital drawings, proofs, and revised letterforms. The goal is not to create a decorative “Latino style,” but to build a type system that emerges from situated experience, shared authorship, and careful formal testing.
 
-This thesis therefore understands typography as a knowledge-making practice. It asks how type can act as archive, testimony, public voice, cultural memory, and technical system at the same time. It also asks how design can be accountable to the people and places that shape it.
+The alphabet will be developed using professional type design tools such as Glyphs or RoboFont. These platforms will allow the project to construct, space, refine, and test the letterforms as an actual font rather than only as a visual illustration. Python-based scripting may also be used to support the design process, including generating proofs, testing spacing, organizing glyph sets, creating specimens, producing variations, and documenting formal decisions. Code becomes part of the research method because it helps make the process more precise, repeatable, and accountable. It also allows the alphabet to be tested across different outputs, including printed specimens, digital layouts, motion experiments, and exhibition materials.
+
+A major development in this expanded proposal is the inclusion of traditional printing processes, which connect the project’s technical development to my personal and family history. In addition to digital type design, font production, variable font testing, type specimens, Python-generated proofs, and motion experiments, the thesis will produce a series of printed posters using the co-designed alphabet. These posters may be developed through supervised printmaking processes that use relief printing methods, ink, paper, pressure, registration, editioning, and material documentation as part of the research.
+
+This process is important because it transforms the alphabet from a digital font into a physical, pressure-based, reproducible artifact. The printed posters will not simply display the alphabet. They will test how typographic form changes when it is translated through plate, ink, paper, impression, texture, repetition, and public exhibition. This connection to ancestral and vernacular forms of making comes from my family’s relationship to printing, as my family has owned and worked with print shops for more than three generations. In this sense, traditional printing is not only a production method. It becomes a way of thinking through ancestry, labour, touch, and memory. The poster becomes a material archive where each letter carries traces of process, place, and cultural continuity.
+
+This thesis therefore understands typography as a knowledge-making practice. It asks how type can act as archive, testimony, public voice, cultural memory, and technical system at the same time. It also asks how design can be accountable to the people, histories, materials, tools, and places that shape it. Through co-design, type mechanics, font production, code-based testing, and traditional printing processes, the project positions the alphabet as both a cultural archive and a working typographic system.
 
 ---
 
 # Section 01: Abstract. Description of the project
 
-**Typographic Archives of Latino Life: New Media Alphabets in Southwestern Ontario** is a research-creation thesis that explores how typography can document everyday Latino life through co-designed alphabets, material experimentation, and ethical forms of representation. The project focuses on Latino residents along the London-Sarnia corridor in Southwestern Ontario, a region shaped by movement, work, migration, commuting, storefronts, domestic life, service spaces, churches, schools, roads, and informal visual cultures. Rather than treating the corridor as a neutral location, the thesis understands it as a visual ecology: a lived environment where letterforms, signs, names, objects, routes, languages, and memories interact.
+Typographic Archives of Latino Life: New Media Alphabets in Southwestern Ontario is a research-creation thesis that explores how typography can document everyday Latino life through co-designed Latin alphabets, material experimentation, and ethical representation. The project focuses on Latino residents along the London-Sarnia corridor in Southwestern Ontario, a region shaped by migration, labour, commuting, storefronts, domestic life, service spaces, churches, schools, roads, and informal visual cultures.
 
-The project begins from the idea that typography can do more than communicate text. It can carry memory, evidence, testimony, belonging, and cultural negotiation. In this thesis, letters are not only formal shapes. They are traces of lived experience, multilingual speech, migration, labour, care, and visual memory. The project asks how an alphabet can be built from the everyday environments of participants, and how that alphabet can remain accountable to the stories and places that shaped it.
+The thesis treats typography as more than a formal design practice. It understands letterforms as carriers of memory, testimony, place, belonging, and cultural negotiation. At the same time, the project questions my own role as designer and researcher within this process. It asks how my decisions, methods, family history in print production, cultural position, and design training shape what is collected, translated, formalized, and made visible through typography.
+The project asks how a Latin alphabet can emerge from the lived experiences, visual references, and everyday environments of Latino participants without reducing those experiences to a fixed cultural style. This question requires attention to authorship, power, consent, interpretation, and accountability. The alphabet is not approached as a neutral design object, but as a site where memory, place, technical systems, and representation are produced through relationships.
 
-The practical outcome will be a body of typographic work that may include a co-designed alphabet or type family, printed alphabet posters, type specimens, multilingual reading tests, process documentation, digital specimens, motion studies, and an exhibition installation. The exhibition will present typography not as a single finished font, but as a research process involving interviews, visual mapping, sketches, proofs, printing plates, screen or letterpress experiments, variable font tests, and reflective writing. The thesis paper will accompany the exhibition by explaining the theoretical, methodological, ethical, and material decisions behind the work.
+The thesis will be developed through co-design, semi-structured conversations, visual mapping, participant-informed image collection, typographic sketching, type design, proofing, and traditional printing processes. The research focuses specifically on the Latin character set, exploring stroke, rhythm, spacing, proportion, hierarchy, texture, kerning, and the relationship between individual glyphs and the full alphabet system. Typographic-making software will be used to generate, refine, and test the font as a working typographic system.
 
-A central component of the project will be the production of letterpress posters on a Heidelberg Windmill Platen Press. These posters will use the alphabet as both image and text. They may include full alphabet sheets, selected glyphs, participant-informed words or phrases, bilingual or multilingual fragments, and visual references from the corridor. The poster series will test how the alphabet behaves when translated from digital outlines into relief printing. The pressure of the press, the absorbency of paper, the density of ink, the slight variations of registration, and the tactile impression of the printed surface will become part of the research. This process will allow the project to ask what happens when a new media alphabet enters an older print technology associated with reproduction, craft, labour, industry, and public circulation.
+A central part of the project will be the production of printed posters and type specimens. These works will move the alphabet from digital form into physical presence, allowing the project to test how type changes through material process, reproduction, texture, and public exhibition. The final outcome may include a co-designed Latin alphabet or type family, printed posters, type specimens, digital specimens, motion studies, process documentation, and an exhibition installation.
 
-The project is interdisciplinary because it sits between type design, printmaking, visual culture, oral history, Latin American diasporic studies, decolonial design, archival thinking, and new media. It is not only about producing beautiful letterforms. It is about asking who gets represented through typography, who defines readability and quality, how multilingual readers experience text, and how design can make communities visible without reducing them to aesthetic material.
-
-At the level of tone and method, the project will use reflective and reflexive writing. Reflective writing will help describe what happens in the process: what I observe, make, test, and learn. Reflexive writing will go further by asking how my own position shapes the research: what I choose to see, what I translate into typography, what I might miss, and how power operates through the act of making. This is important because the project does not treat the designer as neutral. The designer is part of the research situation.
-
-The thesis argues that a co-designed alphabet can function as a form of archive, but only if the process remains ethical, participatory, and materially accountable. The alphabet should not extract identity from participants or flatten Latino life into a decorative style. Instead, it should open a space for shared authorship, careful listening, and public presentation that respects complexity, consent, and refusal.
+Overall, the thesis argues that typography can become a critical knowledge-making practice: a way of studying memory, place, labour, visual culture, authorship, and representation through the construction of letters.
 
 ---
 
@@ -53,22 +55,26 @@ The exhibition will present the project as an evolving typographic archive. It m
 
 ### A. Co-designed alphabet or type family
 
-The central artifact will be an alphabet or type family developed through participant-informed research. The alphabet will not be treated as a neutral set of letters. It will be understood as a visual system built through conversations, observations, maps, objects, memories, signs, and design decisions. It may include uppercase, lowercase, numerals, punctuation, diacritics, accented characters, and selected extended Latin glyphs relevant to Spanish, English, Portuguese, and hybrid language practices that appear in the research.
+The project will develop an expanded Latin character set or type family through participant-informed research. It may include uppercase and lowercase letters, numerals, punctuation, diacritics, accented characters, and selected glyphs relevant to the visual and linguistic practices that appear in the research.
 
-The alphabet may grow from earlier typeface explorations such as Otavalo, especially where Andean textile references, monolinear construction, rhythm, and modular thinking have already opened a way to connect cultural memory with typographic form. However, the thesis alphabet must be developed with attention to the London-Sarnia corridor and to the specific participants involved. The goal is not to apply a single Latin American style, but to develop a situated typographic language through research.
+This character set will be shaped by conversations, observations, maps, objects, memories, signs, and design decisions. The project builds on my existing expertise in type design, Latin alphabet construction, typographic systems, and material experimentation, including my previous Otavalo typeface project. That project gave me experience working with cultural references, monolinear construction, rhythm, modular forms, and the translation of memory into typographic form.
 
-### B. Heidelberg Windmill Platen Press poster series
+However, this thesis will respond specifically to the London-Sarnia corridor and to the participants involved. The goal is not to create a general Latin American style, but to develop a situated typographic language through participant-informed research, typographic testing, and material process.
 
-The poster series will be a key material outcome. The posters will translate the alphabet into letterpress printed artifacts using a Heidelberg Windmill Platen Press. The series may include:
+### B. Priting Press poster series
 
-- A full alphabet poster showing the glyph set.
-- A specimen poster showing weights, spacing, accents, numerals, punctuation, and test words.
+The poster series will be a key material outcome. The posters will translate the alphabet into traditionally printed works through supervised printmaking processes. The series may include:
+
+- A full alphabet poster showing the expanded Latin character set.
+- A specimen poster showing spacing, accents, numerals, punctuation, and test words.
+- A poster testing the type weights across the character set.
 - A corridor poster using place names, road references, routes, storefront fragments, or participant-informed words.
-- A multilingual poster testing English, Spanish, Spanglish, and accented characters.
-- A process poster documenting plate, paper, proof, impression, and registration.
-- A limited edition poster set, numbered and documented as part of the archive.
+- A multilingual poster testing language variation, accented characters, and hybrid forms of expression that appear in the research.
+Illustrative posters of the participants, developed in relation to their stories, visual references, and role in shaping the alphabet.
+- A process poster documenting plate preparation, proofing, impression, registration, and material testing.
+- A limited edition poster set, numbered and documented as part of the archive. 
 
-The posters will be produced under technician or expert printer supervision. The process will be treated as a research method, not simply as production. Each stage will generate evidence: digital files, plate proofs, make-ready notes, proof sheets, rejected prints, registration tests, ink tests, paper tests, and final editions.
+Each stage will generate research evidence, including digital files, plate proofs, make-ready notes, proof sheets, rejected prints, registration tests, material tests, and final editions.
 
 ### C. Type specimens and reading tests
 
@@ -76,7 +82,7 @@ The exhibition may include type specimens that test the alphabet across multiple
 
 - Alphabet display sheets.
 - Paragraph settings.
-- Bilingual and multilingual text samples.
+- Bilingual text samples.
 - Accented character tests.
 - Spacing and rhythm studies.
 - Large scale poster settings.
@@ -86,20 +92,7 @@ The exhibition may include type specimens that test the alphabet across multiple
 
 These specimens will help connect the formal craft of typography to the research questions about quality, readability, language, and access.
 
-### D. Visual ecology wall or map
-
-A visual ecology section may document the London-Sarnia corridor as a source of typographic material. This could include photographs, maps, sketches, notes, selected signs, storefront details, route diagrams, object studies, and participant-generated visual references. The purpose is to show how letterforms emerge from place rather than from abstract style alone.
-
-Possible materials include:
-
-- Photographs of signage, stores, streets, churches, service spaces, restaurants, homes, community spaces, and vehicles.
-- Participant route maps.
-- Handwritten notes or redrawn fragments, only with consent.
-- Colour studies from the corridor.
-- Texture studies from paper, fabric, walls, packaging, textiles, and printed ephemera.
-- Diagrams connecting locations to typographic decisions.
-
-### E. Process archive
+### D. Process archive
 
 The process archive will show the making of the work. It may include:
 
@@ -125,16 +118,36 @@ A digital component may show the alphabet in motion or variable states. This cou
 
 The written paper will likely include the following chapters or sections:
 
-1. Introduction: project context, research question, personal position, scope, and significance.
-2. Typography as archive: type as testimony, evidence, memory, and cultural record.
-3. Who defines good typography: typographic standards, power, legibility, professionalism, and decolonial critique.
-4. Typographic mechanics and multilingual reading: spacing, hierarchy, paragraph structure, accents, extended Latin characters, and readability testing.
-5. Ethical visibility: consent, co-authorship, circulation, representation, anonymity, refusal, and non-extractive design.
-6. Corridor life as visual ecology: London-Sarnia as lived geography, movement, labour, storefronts, domestic life, and visual memory.
-7. Methodology: research-creation, interviews, visual mapping, participatory workshops, type design, printmaking, and reflexive writing.
-8. Making process: alphabet development, variable font testing, specimen design, Heidelberg Windmill poster production, documentation, and exhibition design.
-9. Analysis and reflection: what the making reveals about typography, place, language, ethics, and materiality.
-10. Conclusion: contribution to design research, typography, Latino representation, and research-creation.
+1. Introduction:
+Project context, research question, personal position, scope, significance, and the London-Sarnia corridor as the site of inquiry.
+
+2. Typography as Archive:
+Type as testimony, evidence, memory, cultural record, and a way of documenting everyday Latino life.
+
+3. Who Defines “Good Typography”?:
+Typographic standards, power, legibility, professionalism, design education, and decolonial critique.
+
+4. Typographic Mechanics and Expanded Latin Character Set:
+Spacing, hierarchy, stroke logic, paragraph structure, accents, diacritics, extended Latin characters, and readability testing.
+
+5. Ethical Visibility:
+Consent, co-authorship, circulation, representation, anonymity, refusal, and non-extractive design.
+
+6. Corridor Life as Visual Ecology:
+London-Sarnia as lived geography, including movement, labour, storefronts, domestic life, service spaces, roads, churches, schools, and visual memory.
+
+7. Methodology: Arts-Based Research-Creation and Ways of Making:
+Research-creation as a method where making produces knowledge. This chapter can include interviews, visual mapping, participatory workshops, co-design, typographic sketching, type design, printmaking, documentation, and reflexive writing. This section should explain that the project is not only studying typography, but making typography as a way to think, test, listen, translate, and generate knowledge.
+
+8. Making Process: From Co-Designed Alphabet to Material Form
+Alphabet development, expanded Latin character set construction, typographic-making software, variable font testing, type specimens, poster studies, traditional printing processes, documentation, and exhibition design.
+Traditional printing should be framed as one of the main “ways of making,” connecting type to pressure, surface, reproduction, craft knowledge, family printing history, and material memory.
+
+9. Analysis and Reflection:
+What the making reveals about typography, place, language, ethics, authorship, materiality, and your position as designer-researcher within the production of knowledge.
+
+10. Conclusion:
+Contribution to design research, typography, Latino representation, arts-based research-creation, and ethical approaches to co-designed visual systems.
 
 ## 2.3 Relationship between exhibition and paper
 
@@ -150,7 +163,7 @@ The paper should make the argument explicit. It should explain why typography ca
 
 ## 3.1 Main research question
 
-How can co-designed alphabets developed with Latino residents along the London-Sarnia corridor document everyday life, challenge dominant assumptions about typographic quality and multilingual readability, and support ethical forms of visibility and representation?
+How can co-designed alphabets developed with Latino residents along the London-Sarnia corridor document everyday life, challenge dominant assumptions about typographic quality, and support ethical forms of visibility and representation?
 
 ## 3.2 Supporting research questions
 
@@ -184,7 +197,7 @@ How do spacing, hierarchy, contrast, paragraph structure, rhythm, scale, accents
 
 This question grounds the project in typographic craft. It asks how the alphabet actually performs when it becomes words, lines, paragraphs, signs, posters, and digital specimens. It is not enough for the alphabet to look conceptually strong. It must be tested in real reading conditions.
 
-Multilingual typography creates specific challenges. Spanish and English have different word lengths, punctuation patterns, accents, rhythms, and visual textures. Accented characters must not feel like additions or afterthoughts. Spacing must work with diacritics. Hierarchy must support bilingual reading. Paragraph settings must be tested across languages. A poster that works in English may not work the same way in Spanish or mixed-language text.
+Multilingual typography creates specific challenges within the expanded Latin character set. Accents, diacritics, punctuation, word length, rhythm, hierarchy, and visual texture must be treated as part of the typographic system rather than as additions. Spacing, paragraph structure, and readability need to be tested across the language practices that appear in the research.
 
 **Working hypothesis:** Systematic testing of multilingual text through typographic variation will demonstrate that readability is context-dependent and that conventional typographic settings often privilege dominant language norms.
 
@@ -214,6 +227,18 @@ A visual ecology approach means studying how signs, surfaces, materials, movemen
 
 **Working claim:** Typography is shaped by place. It emerges not only from formal design history, but also from the everyday environments through which people move, work, and build meaning.
 
+### RQ6. Traditional printing processes
+
+How can traditional printing processes function as methods of expression, material inquiry, and knowledge production within the development of a co-designed expanded Latin character set?
+
+This question examines how traditional printing processes can move the alphabet beyond digital type design and into material form. Through printmaking, the letterforms are tested through surface, impression, repetition, texture, registration, editioning, and public display. The process is not treated only as production, but as a way of thinking through ancestry, labour, touch, and memory.
+
+**Working hypothesis:**
+Traditional printing processes will reveal aspects of the co-designed alphabet that may not appear through digital type design alone. By translating the type into printed form, the project will show how material conditions such as surface, impression, texture, scale, and repetition shape the meaning, readability, and cultural presence of the letterforms.
+
+**Working claim:**
+Traditional printing processes are not secondary to the design of the alphabet. They are part of the research method itself. In this thesis, printing becomes a way of making typography accountable to material process, family printing history, labour, ancestry, touch, memory, and public circulation. Through print, the expanded Latin character set becomes not only a digital font, but a physical and cultural record of the relationships, places, and stories that shaped it.
+
 ## 3.3 Research question diagram
 
 ```text
@@ -221,32 +246,35 @@ MAIN QUESTION
 How can co-designed alphabets document Latino life, challenge typographic norms,
 and support ethical visibility in Southwestern Ontario?
 
-        |                     |                      |                       |                     |
-        v                     v                      v                       v                     v
- Typography as        Who defines good       Typographic mechanics       Ethical visibility       Corridor life as
- archive              typography?            and multilingual reading     and representation       visual ecology
+        |                     |                      |                       |                     |                       |
+        v                     v                      v                       v                     v                       v
+ Typography as        Good typography         Typographic mechanics       Ethical visibility       Corridor life as        Traditional printing
+ archive              and power               and expanded Latin          and representation       visual ecology          as expression
+                                             character set
 
-        |                     |                      |                       |                     |
-        v                     v                      v                       v                     v
- Memory, testimony    Power, standards,       Spacing, rhythm,             Consent, agency,         Routes, labour,
- evidence, record     professionalism         accents, hierarchy          refusal, circulation     signs, home, movement
+        |                     |                      |                       |                     |                       |
+        v                     v                      v                       v                     v                       v
+ Memory, testimony    Standards,              Spacing, rhythm,             Consent, agency,         Routes, labour,         Ancestry, labour,
+ evidence, record     professionalism,        accents, diacritics,         refusal, circulation     signs, home, movement   touch, memory,
+                      legibility              hierarchy, readability                                                     material process
 
-        \______________________________  CO-DESIGNED ALPHABET  ______________________________/
-                                          |
-                                          v
-                               PRINT, SCREEN, MOTION, EXHIBITION,
-                               THESIS PAPER, PROCESS ARCHIVE
+        \__________________________________________  CO-DESIGNED ALPHABET  __________________________________________/
+                                                           |
+                                                           v
+                                      PRINT, SCREEN, MOTION, EXHIBITION,
+                                      THESIS PAPER, PROCESS ARCHIVE,
+                                      TRADITIONAL PRINTED POSTERS
 ```
 
 ---
 
 # Section 04: Project objectives
 
-## 4.1 Objective 1: Develop a co-designed alphabet as research-creation
+## 4.1 Objective 1: Develop a co-designed alphabet as art-base research creation
 
-The first objective is to develop an alphabet or type family through a research-creation process involving Latino participants along the London-Sarnia corridor. The alphabet should emerge from a combination of interviews, visual mapping, observation, typographic analysis, sketching, digital drawing, and iterative testing. It should not simply illustrate Latino identity. It should be built from specific references, conversations, sites, and decisions.
+The first objective is to develop an expanded Latin character set or type family through a research-creation process involving Latino participants along the London-Sarnia corridor. This character set should emerge from interviews, visual mapping, observation, typographic analysis, sketching, digital drawing, and iterative testing. It should not simply illustrate Latino identity. It should be built from specific references, conversations, sites, and design decisions.
 
-This objective connects to interdisciplinary practice because the alphabet will be both a design object and a research method. It will require type design, qualitative research, visual culture analysis, participatory practice, and reflective writing. The final alphabet will be judged not only by its formal quality, but also by how responsibly it carries the process that shaped it.
+This objective connects to interdisciplinary practice because the expanded Latin character set will be both a design outcome and a research method. It will require type design, qualitative research, visual culture analysis, participatory practice, and reflective writing. The final character set will be judged not only by its formal quality, but also by how responsibly it carries the process, relationships, and decisions that shaped it.
 
 ## 4.2 Objective 2: Examine who defines typographic quality
 
@@ -254,15 +282,22 @@ The second objective is to question the authority of inherited typographic stand
 
 This objective does not reject craft. Instead, it asks how craft can be made more accountable. The alphabet will still need careful spacing, rhythm, hierarchy, and glyph construction. However, the project will also ask whether participants recognize themselves in the form, whether accented characters are respected, whether bilingual reading feels natural, and whether the visual system can carry emotional and cultural meaning.
 
-## 4.3 Objective 3: Test typographic mechanics in multilingual conditions
+## 4.3 Objective 3: Test typographic mechanics within an expanded Latin character set
 
-The third objective is to test the alphabet across multilingual reading conditions. This includes letter spacing, word spacing, line spacing, line length, paragraph structure, contrast, hierarchy, scale, weight, accents, punctuation, numerals, and bilingual layout. The project should produce proofs that show how the alphabet works in English, Spanish, mixed-language text, and possibly other extended Latin contexts depending on the participant group.
+The third objective is to test the expanded Latin character set as a working typographic system. This includes spacing, rhythm, hierarchy, scale, weight, accents, punctuation, numerals, diacritics, and selected extended Latin glyphs.
 
-This objective connects directly to new technologies and digital workflows. Tools such as Glyphs, RoboFont, Fontra Pak, UFO files, designspace files, variable font exports, and proofing scripts will allow the alphabet to be tested as a system rather than as a fixed set of drawings. Variable font logic may help test weight, width, contrast, or other axes if relevant to the final design.
+The project will produce proofs, specimens, posters, and screen-based tests to evaluate how the character set performs across different formats. Typographic-making software and digital proofing tools will support the development, testing, and refinement of the font.
 
-## 4.4 Objective 4: Use Heidelberg Windmill poster printing as material research
+This objective focuses on how individual glyphs work together as a system. It will test whether the character set is readable, consistent, flexible, and formally connected to the visual references gathered through the research.
 
-The fourth objective is to produce a poster series using a Heidelberg Windmill Platen Press. This is not only a production method. It is a way to study how the alphabet changes when it is translated into relief printing.
+
+## 4.4 Objective 4: Use traditional printing and letterpress processes as material research
+
+The fourth objective is to produce a poster series using traditional printing and letterpress processes as material research. This process will test how the expanded Latin character set changes when it moves from digital type design into printed form.
+
+The poster process will examine edge quality, texture, impression, contrast, paper response, registration, editioning, and scale. It will also test how the printed surface changes the way viewers experience the alphabet.
+
+This objective treats printing as research, not only as production. Traditional printing and letterpress processes place a contemporary co-designed character set inside historical methods of reproduction. They also connect the project to labour, craft knowledge, ancestry, touch, material memory, and the movement of typography across digital, printed, motion, exhibition, and archival formats.
 
 The poster process will examine:
 
@@ -273,8 +308,6 @@ The poster process will examine:
 - How the alphabet performs at poster scale.
 - How the printed artifact changes the viewer’s relation to the alphabet.
 - How older print technology can dialogue with new media typography.
-
-This objective is important because the thesis title includes new media alphabets, but the project should not treat new media as only screen-based. New media can also be understood as the movement of an alphabet across formats: digital font, printed poster, type specimen, motion sequence, exhibition surface, and archive. The Heidelberg process allows the project to place a contemporary co-designed alphabet inside a historical technology of reproduction.
 
 ## 4.5 Objective 5: Explore the relationship between material and narrative
 
@@ -308,35 +341,48 @@ The theoretical background of this thesis is organized through five areas that c
 
 ## 5.1 Typography as archive, testimony, and discourse
 
-The first theoretical area positions typography as a form of discourse, not simply a container for language. Typography participates in meaning. It affects tone, authority, pace, memory, hierarchy, and public presence. A typeface can make a message feel official, intimate, vernacular, urgent, nostalgic, commercial, sacred, or experimental.
+The first theoretical area positions typography as a form of discourse, not simply a container for language. Typography participates in meaning. It affects tone, authority, pace, memory, hierarchy, and public presence. A typeface can make a message feel official, intimate, vernacular, urgent, nostalgic, commercial, sacred, or experimental. Rob Waller’s chapter “Typography and Discourse,” in Handbook of Reading Research, Volume II, is useful because it supports the idea that typography is part of communication and interpretation, not an invisible background (Waller, 1991, pp. 341–380). Sofie Beier’s “Letterform Research: An Academic Orphan” helps position type design as a legitimate research field, especially because she argues that letterform research needs stronger links between reading research, design knowledge, and testing (Beier, 2016, pp. 64–79). Herbert Spencer’s Pioneers of Modern Typography also provides historical grounding for treating letterforms as sites of experimentation, especially through modernist, avant-garde, and experimental approaches to graphic form (Spencer, 2004).
 
-Robert Waller’s work on typography and discourse is useful because it supports the idea that typography is part of communication and interpretation, not an invisible background. Sofie Beier’s writing on letterform research helps position type design as a legitimate research field, while Herbert Spencer and experimental typography provide historical grounding for treating letterforms as sites of investigation. Nat Pyper’s work is also relevant because it frames type as memory, countercultural archive, and speculative transmission.
+Walter Benjamin’s “The Work of Art in the Age of Its Technological Reproducibility: Second Version” is important for thinking about alphabets, posters, type specimens, and fonts as reproducible cultural forms (Benjamin, 2008, pp. 19–55). Letterpress posters, type specimens, and fonts are made to circulate. Reproduction does not simply duplicate an original. It changes authority, access, and context. This is especially important for the traditional printing and letterpress process, where each print belongs to an edition but may also carry slight material variation. The poster is both repeatable and singular.
 
-Walter Benjamin’s writing on technological reproducibility is important for thinking about alphabets and posters as reproducible cultural forms. Letterpress posters, type specimens, and fonts are made to circulate. Reproduction does not simply duplicate the original. It changes authority, access, and context. This is especially important for the Heidelberg poster process, where each print belongs to an edition but also carries slight material variation. The poster is both repeatable and singular.
+Raphaël Ouellet’s “From Forms to Form: Contemporary Art and the Practice of Bureaucratic Everyday Life” supports the use of ordinary graphic traces as cultural material (Ouellet, 2024, pp. 116–127). Forms, signs, receipts, notices, menus, WhatsApp screenshots, handwritten lists, and storefront graphics can all become meaningful because they organize everyday life. They may not appear important in official archives, but they carry evidence of how people live, work, and communicate.
 
-Raphaël Ouellet’s work on bureaucratic everyday forms supports the use of ordinary graphic traces as cultural material. Forms, signs, receipts, notices, menus, WhatsApp screenshots, handwritten lists, and storefront graphics can all become meaningful because they organize everyday life. They may not appear important in official archives, but they carry evidence of how people live, work, and communicate.
+The project also connects to protest typography and public voice. Strikethrough: Typographic Messages of Protest is useful because it frames lettering, type, posters, and printed ephemera as tools for resistance, visibility, and collective memory (Munro, 2022). Protest Cultures: A Companion can support this section through chapters such as “Posters and Placards” and “Typography and Text Design,” which connect protest to graphic form, public messaging, and the visual organization of dissent (Demarmels, 2016, pp. 233–242; Spitzmüller, 2016, pp. 259–263). 
 
-The project also connects to protest typography and public voice. Sources such as *Strikethrough: Typographic Messages of Protest* and *Protest Cultures: A Companion* help situate typography within public expression, collective memory, and social movement. Even if this thesis is not only about protest, it is concerned with visibility, representation, and the politics of public messages. Posters are historically connected to calls, announcements, demands, celebrations, and public gathering. The Heidelberg alphabet posters can therefore be understood as public artifacts that claim presence.
+Even if this thesis is not only about protest, it is concerned with visibility, representation, and the politics of public messages. Posters are historically connected to calls, announcements, demands, celebrations, and public gathering. The printed alphabet posters can therefore be understood as public works that claim presence.
 
 ## 5.2 Typographic quality, power, and normativity
 
-The second theoretical area questions who defines good typography. Richard Lynch’s discussion of Foucault’s theory of power is useful because power does not only prohibit. It produces norms, knowledge, categories, and accepted truths. In typography, standards of correctness and professionalism often appear natural, but they are produced through institutions, publications, education, software defaults, design histories, and professional gatekeeping.
+The second theoretical area questions who defines “good typography.” Richard A. Lynch’s chapter “Foucault’s Theory of Power,” in Michel Foucault: Key Concepts, is useful because it explains power as something that does not only prohibit, but also produces norms, categories, knowledge, and accepted truths (Lynch, 2010, pp. 13–26). In typography, standards of correctness and professionalism can appear natural, but they are shaped through institutions, publications, design education, software defaults, design histories, and professional gatekeeping.
 
-Gurminder Bhambra’s critique of Eurocentric critical theory helps question whose histories and standards become universal. Homi Bhabha’s work on hybridity, ambivalence, and cultural authority is useful for understanding multilingual and diasporic form as something that resists purity. Vicki Kirby’s engagement with Butler and Sofia Vranou’s writing on norm disruption can support a discussion of how certain visual forms are dismissed as excessive, strange, improper, or illegible because they disturb dominant taste.
+Gurminder K. Bhambra’s article “Decolonizing Critical Theory? Epistemological Justice, Progress, Reparations” helps question whose histories, methods, and standards become treated as universal (Bhambra, 2021, pp. 73–89). This supports the thesis by asking how typographic knowledge has been shaped by Eurocentric design histories, and how other visual practices can challenge inherited ideas of clarity, refinement, and legitimacy.
 
-Within typography itself, Gerrit Noordzij and Jost Hochuli are important but different kinds of sources. Noordzij’s *The Stroke* helps explain that letterforms are built from tools, movement, contrast, direction, and writing traditions. This supports the thesis because it shows that typography is historically tied to the body, the hand, and inherited training. Hochuli’s *Detail in Typography* represents a precise professional tradition focused on spacing, rhythm, line length, and careful typographic adjustment. Rather than rejecting Hochuli, the thesis can use him as a standard to examine and test. The question becomes: what happens when professional standards of detail meet multilingual, diasporic, community-informed forms of reading?
+Homi K. Bhabha’s The Location of Culture can support the discussion of hybridity, ambivalence, and cultural authority. The most relevant chapters are “Of Mimicry and Man: The Ambivalence of Colonial Discourse,” which begins on page 121, and “Signs Taken for Wonders: Questions of Ambivalence and Authority Under a Tree Outside Delhi, May 1817,” which begins on page 145 in the Routledge Classics edition (Bhabha, 2004). These chapters are useful for thinking about diasporic and hybrid forms that resist purity, fixed identity, or a single visual standard.
 
-Frank Chimero’s *The Shape of Design* can support the discussion of design judgment, process, and value. Design quality is not only technical. It is connected to intention, context, audience, and meaning. This helps the thesis argue that good typography must be understood through both craft and situated use.
+Vicki Kirby’s Judith Butler: Live Theory can be used as a supporting source for thinking about norm-making, performativity, and how certain forms become recognized as proper or improper. The most relevant chapters are “Gender, Sexuality, Performance: Gender Trouble,” “Gender, Sexuality, Performance: Bodies that Matter,” and “Language, Power, Performativity: Excitable Speech” (Kirby, 2006). This source is not specifically about typography, but it can help frame how visual forms may be judged as excessive, strange, improper, or illegible when they disturb dominant norms.
+
+Sofia Vranou’s article “Performing the Subcultural Freak: Leigh Bowery’s Peculiar Narcissism and the Disruption of Normativity” can also support this discussion (Vranou, 2020, pp. 326–339). Vranou is useful for thinking about how visual excess, transgression, and nonconformity can challenge dominant ideas of taste, body, style, and acceptability. In this thesis, that idea can be translated carefully into typography by asking why some letterforms are accepted as refined, while others are dismissed as too vernacular, too decorative, or too informal.
+
+Within typography itself, Gerrit Noordzij and Jost Hochuli are important but different kinds of sources. Noordzij’s The Stroke: Theory of Writing helps explain that letterforms are built through tools, movement, contrast, direction, white space, and writing traditions (Noordzij, 2005/2019). This supports the thesis because it shows that typography is historically tied to the body, the hand, and inherited training. Hochuli’s Detail in Typography represents a precise professional tradition focused on letters, letterspacing, words, wordspacing, lines, linespacing, columns, and legibility (Hochuli, 2008/2015). Rather than rejecting Hochuli, the thesis can use him as a standard to examine and test. The question becomes: what happens when professional standards of typographic detail meet community-informed forms of reading, memory, and visual culture?
+
+Frank Chimero’s The Shape of Design can support the discussion of design judgment, process, and value. The most relevant chapters are “How and Why,” “Craft and Beauty,” “Improvisation and Limitations,” and “Context and Response” (Chimero, 2012). Chimero helps argue that design quality is not only technical. It is connected to intention, context, audience, response, and meaning. This supports the thesis by framing “good typography” as something that must be tested through both craft and situated use.
 
 ## 5.3 Typographic mechanics, perception, and multilingual reading
 
-The third theoretical area focuses on reading as embodied, spatial, and multilingual. Typography is not only seen. It is experienced through habits of perception, body orientation, language familiarity, visual rhythm, and environment.
+The third theoretical area focuses on reading as embodied, spatial, and situated. Typography is not only seen. It is experienced through habits of perception, body orientation, language familiarity, visual rhythm, and environment. This is important because the expanded Latin character set will be tested not only as a formal system, but as something encountered through bodies, places, materials, and everyday situations.
 
-Gloria Anzaldúa’s writing is central because it connects language, border identity, hybridity, and lived contradiction. Her work helps frame multilingual language not as a problem to be corrected, but as a site of knowledge and identity. Sara Ahmed’s *Queer Phenomenology* supports the idea that orientation matters: some bodies, languages, and readers are made comfortable by dominant systems, while others must adjust, translate, or move differently. Maurice Merleau-Ponty’s phenomenology supports the idea that perception is embodied and situated. James Gibson’s ecological approach to visual perception adds that seeing is shaped by surfaces, movement, environment, and action.
+Gloria Anzaldúa’s Borderlands/La Frontera: The New Mestiza is central to this section, especially Chapter 5, “How to Tame a Wild Tongue.” This chapter connects language, border identity, hybridity, and lived contradiction. It helps frame language variation not as a problem to be corrected, but as a site of knowledge, memory, and identity. Chapter 7, “La conciencia de la mestiza,” can also support the project’s discussion of hybridity and cultural negotiation. Page numbers vary by edition, but “How to Tame a Wild Tongue” is commonly listed around pp. 53–64 in Aunt Lute editions.
 
-These ideas are important for typography because reading is not abstract. It happens in bodies, places, and contexts. A reader encounters signs while driving, shopping, commuting, praying, texting, cooking, or navigating an institution. Type is read under different distances, lighting conditions, languages, emotional states, and degrees of familiarity.
+Sara Ahmed’s Queer Phenomenology: Orientations, Objects, Others supports the idea that orientation matters. Ahmed’s Introduction and Chapter 1, “Orientations Toward Objects,” are the most useful for this project because they explain how bodies are situated in space and how some bodies, objects, and directions are made easier to reach than others. This helps the thesis ask how typography can make some readers feel oriented, while others may need to adjust, translate, or navigate differently. Duke University Press describes the book as focusing on how bodies are situated in space and time, and how orientation affects what is proximate or reachable.
 
-Hochuli and Cyrus Highsmith are useful technical anchors. Hochuli helps discuss letterspacing, word spacing, line spacing, margins, columns, hierarchy, and page rhythm. Highsmith’s *Inside Paragraphs* helps analyze what happens when letters become words, words become lines, and lines become paragraphs. These sources allow the thesis to connect critical theory to practical typographic testing.
+Maurice Merleau-Ponty’s Phenomenology of Perception supports the idea that perception is embodied and situated. The most relevant sections are Part One, “The Body,” especially “The Body as Object and Mechanistic Physiology,” “The Spatiality of One’s Own Body and Motility,” and “The Body as Expression and Speech.” In the 2002 Psychology Press edition, these sections begin on pp. 84, 112, and 202. These chapters can help connect reading to the body, gesture, movement, and lived perception rather than treating reading as an abstract visual act.
+
+James J. Gibson’s The Ecological Approach to Visual Perception adds that seeing is shaped by surfaces, movement, environment, and action. Chapter 2, “Medium, Substances, Surfaces,” and Chapter 8, “The Theory of Affordances,” are especially relevant. Gibson’s theory of affordances helps explain how environments offer possibilities for action and perception. For this thesis, this supports the idea that signs, storefronts, roads, posters, domestic objects, and printed surfaces are not passive backgrounds. They shape how people notice, move, remember, and read.
+These ideas are important for typography because reading is not abstract. It happens in bodies, places, and contexts. A reader encounters signs while driving, shopping, commuting, praying, texting, cooking, working, or navigating an institution. Type is read under different distances, lighting conditions, emotional states, materials, and levels of familiarity. This means the project must test the expanded Latin character set through real uses, not only through neutral specimens.
+
+Hochuli and Cyrus Highsmith are useful technical anchors. Jost Hochuli’s Detail in Typography supports the study of micro-typographic decisions such as letters, letterspacing, words, wordspacing, lines, linespacing, columns, punctuation, and legibility. The book is short, around 64 pages, and can be used throughout the mechanics and testing sections. Cyrus Highsmith’s Inside Paragraphs: Typographic Fundamentals is especially useful for analyzing what happens when letters become words, words become lines, and lines become paragraphs. The publisher describes the book as focused on printed text inside the paragraph and the role of white space between letters, words, and lines.
+
+Together, these sources allow the thesis to connect critical theory to practical typographic testing. Anzaldúa and Ahmed help frame language, orientation, and power. Merleau-Ponty and Gibson help frame embodied and ecological perception. Hochuli and Highsmith provide the technical language for testing spacing, rhythm, hierarchy, paragraph structure, and readability within the expanded Latin character set.
 
 ## 5.4 Ethical visibility, care, and non-extractive representation
 
