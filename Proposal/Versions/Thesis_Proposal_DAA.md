@@ -386,19 +386,63 @@ Together, these sources allow the thesis to connect critical theory to practical
 
 ## 5.4 Ethical visibility, care, and non-extractive representation
 
-The fourth theoretical area addresses ethics. Donna Haraway’s *Staying with the Trouble* is useful because it argues for situated, relational, accountable ways of thinking. The thesis can use Haraway to avoid detached design authorship and instead frame design as a process of relation. Rose-Redwood and colleagues’ work on decolonizing mapping is also relevant because mapping, naming, and spatial representation are never neutral. This matters when the thesis documents corridor life and turns routes or places into visual material.
+The fourth theoretical area addresses ethics, especially the problem of visibility. In this thesis, visibility is not automatically positive. A poster, font, map, or exhibition can celebrate community presence, but it can also expose, simplify, aestheticize, or misrepresent people’s lives. For that reason, the project must treat consent, participant review, anonymity, refusal, and circulation as part of the design method, not as secondary concerns.
 
-Tyna Fritschy’s work on undisciplined knowledge helps position the project as a practice that resists over-classification and institutional flattening. Vaage’s writing on ethics in experimental art practice is useful because it reminds the project that innovation does not remove responsibility. Luccioni’s critique of technical systems can also support the project if digital tools, AI, or computational processes enter the workflow, especially where simplification, bias, and extraction are concerns.
+Donna Haraway’s Staying with the Trouble: Making Kin in the Chthulucene is useful because it argues for situated, relational, and accountable forms of thinking. The most relevant sections are the Introduction, Chapter 1, “Playing String Figures with Companion Species,” Chapter 3, “Sympoiesis,” Chapter 5, “Awash in Urine: DES and Premarin in Multispecies Response-ability,” and Chapter 7, “A Curious Practice” (Haraway, 2016, pp. 1–8, 9–29, 58–98, 104–116, 126–133). These chapters help frame design as a process of relation rather than detached authorship. Haraway is especially useful for thinking about how the designer is implicated in the research situation, because accountability is produced through relationships, materials, histories, and decisions.
 
-The central ethical issue is that visibility can be double-edged. A poster, font, or exhibition can celebrate community presence, but it can also expose, simplify, aestheticize, or misrepresent. The thesis must therefore build consent and participant review into the method. Ethical visibility is not only about showing. It is about asking who controls the terms of showing.
+Rose-Redwood, Barnd, Lucchesi, Dias, and Patrick’s “Decolonizing the Map: Recentering Indigenous Mappings” is useful for the corridor mapping section because it argues that mapping must move beyond colonial cartographic frames by centering Indigenous geographical knowledge, protocols, and participation (Rose-Redwood et al., 2020, pp. 151–162). This matters for the thesis because mapping, naming, routes, and spatial representation are never neutral. When the project documents corridor life and turns places, roads, or storefronts into visual material, it must ask who controls the meaning of those places and how they are represented.
+
+Tyna Fritschy’s “Queer Indiscipline, Decolonial Revolt: The Production of Undisciplined Knowledges in the Neoliberal Age” can support the project’s resistance to over-classification and institutional flattening (Fritschy, 2021, pp. 127–139). This source is useful because the thesis does not only organize community experience into a clean archive. It also needs to leave space for uncertainty, contradiction, affect, memory, and forms of knowledge that do not fit neatly into academic or design categories.
+
+Nora S. Vaage’s “What Ethics for Bioart?” is useful as a supporting source on ethics in experimental art practice (Vaage, 2016, pp. 87–104). Although Vaage writes specifically about bioart, the source helps this thesis because it shows that experimentation does not remove responsibility. Artistic research still needs ethical attention when it uses people, materials, technologies, or living contexts as part of the work. Vaage’s broader research also connects art, new technologies, ethics, and knowledge production within artistic research.
+
+Sasha Luccioni’s work can be used if digital tools, AI, or computational processes enter the workflow. “Stable Bias: Evaluating Societal Representations in Diffusion Models” is relevant because it examines how image-generation systems can reproduce or intensify social bias and under-represent marginalized identities (Luccioni et al., 2023). “Misinformation by Omission: The Need for More Environmental Transparency in AI” is also useful because it argues that AI systems often lack transparency about costs, impacts, and resource demands (Luccioni et al., 2025). These sources can help the thesis address simplification, bias, extraction, and opacity if computational tools are used in the design process.
+
+The central ethical issue is that visibility can be double-edged. Public presentation can create recognition and presence, but it can also expose people to misreading, stereotyping, or unwanted attention. Ethical visibility is therefore not only about showing. It is about asking who controls the terms of showing, who can refuse, who reviews the work, and how the final alphabet, posters, maps, and exhibition circulate.
 
 ## 5.5 Corridor life, diaspora, hybridity, and visual ecology
 
-The fifth theoretical area concerns place. The London-Sarnia corridor is a lived geography shaped by movement, labour, migration, industry, agriculture, highways, domestic spaces, stores, religious life, education, and community networks. The thesis should not generalize Latino life as if it exists outside place. It must ask what is specific about this region.
+The fifth theoretical area concerns place. The London-Sarnia corridor is a lived geography shaped by movement, labour, migration, industry, agriculture, highways, domestic spaces, stores, religious life, education, and community networks. The thesis should not generalize Latino life as if it exists outside place. It must ask what is specific about this region and how place shapes the visual material used to build the expanded Latin character set.
 
-Kalra, Hutnyk, and Kaur’s writing on hybridity and openness helps understand cultural mixing as political and contested, not simply celebratory. Zakiya Luna’s writing on location supports the idea that place shapes collective identity and experience. Giuliana Bruno’s work on projection, architecture, surface, and spatial imagination can help frame storefronts, facades, walls, interiors, and screens as visual surfaces that carry memory.
+This regional focus is supported by local demographic change. In London, immigrants represented 24.8% of the city’s population in 2021, increasing from 22.2% in 2016 and 21.2% in 2011. In the wider London-Middlesex region, a 2025 newcomer survey reports that more than 100,000 people, approximately 25% of the population, were foreign-born immigrants in 2021, and 19.1% of immigrants had arrived between 2016 and 2021.
 
-Camargo-Borges’ research-as-worldmaking is useful because it positions research as an active process of creating relations and meanings. Watfern and colleagues’ work on ecological emotions supports an affective understanding of place. The project can use these sources to understand the corridor as an environment that is seen, felt, remembered, and remade through design.
+Latino presence is also visible in the census data, although Statistics Canada records this through the category “Latin American” within the visible minority/racialized population variable. In London, the Latin American population increased from 9,045 in 2016 to 12,580 in 2021, a growth of approximately 39%. In Sarnia, the Latin American population increased from 390 in 2016 to 620 in 2021, a growth of approximately 59%. These numbers do not capture the full complexity of Latino identity, language, migration history, or cultural belonging, but they help show that Latino presence in the corridor is measurable, growing, and regionally specific.
+
+At the same time, the corridor is not uniform. London functions as a larger urban and institutional centre, while Sarnia and Lambton County are shaped by different relationships to industry, smaller-city life, border proximity, mobility, and regional labour. The Sarnia census agglomeration counted 10,080 immigrants in 2021, representing 10.5% of its population. These differences matter because the thesis is not only about Latino identity in general. It is about how Latino life is experienced across a specific Southwestern Ontario geography.
+
+Kalra, Kaur, and Hutnyk’s Diaspora & Hybridity is useful because it treats diaspora and hybridity as political and contested, not simply celebratory. Chapter 4, “Hybrid Connections,” and Chapter 5, “Hybridity and Openness (or, Whose Side Are You On?),” are the most relevant sections for this thesis. These chapters help frame cultural mixing as something shaped by power, migration, race, belonging, and political struggle rather than as a neutral blend of styles. This is important because the thesis should not turn Latino visual culture into a decorative idea of hybridity. It should ask how hybrid forms emerge from specific histories, routes, labour conditions, and social relations.
+
+Zakiya Luna’s article “‘Truly a Women of Color Organization’: Negotiating Sameness and Difference in Pursuit of Intersectionality” can support the project’s thinking about location, difference, and collective identity. Luna examines how organizations negotiate sameness and difference when building collective identity across race, class, and other social positions. For this thesis, Luna is useful because Latino identity should not be treated as one shared experience. The project must remain attentive to differences among participants, including migration history, language, class, work, age, gender, and connection to place.
+
+Giuliana Bruno’s Surface: Matters of Aesthetics, Materiality, and Media helps frame place through surfaces, architecture, projection, walls, screens, façades, and material memory. The most useful sections are “Surfaces of Light,” especially Chapter 3, “Light Spaces, Screen Surfaces: On the Fabric of Projection,” Chapter 4, “The Surface Tension of Media: Texture, Canvas, Screen,” and Chapter 8, “Projections: The Architectural Imaginary in Art.” Bruno is useful for understanding storefronts, walls, interiors, signs, screens, and exhibition surfaces as visual sites where memory and mediation happen. This connects directly to the corridor because the project studies everyday visual surfaces as sources for typographic form.
+
+Celiane Camargo-Borges’s “Creativity and Imagination: Research as World Making!” is useful for the methodology of place-based research-creation. The chapter appears in Handbook of Arts-Based Research and is listed as pp. 88–100 in the version I found. Camargo-Borges argues for research as a creative, social, and generative practice rather than a neutral process of discovery. This supports the thesis because the corridor is not only being documented. It is being interpreted, remade, and made meaningful through conversations, mapping, type design, printing, and exhibition.
+
+Watfern, Watson, Doran, and Vaughan’s “A Sad Tree: Visualising Ecological Emotions Through Bodies in Place” can support the affective dimension of place. The article appears in Visual Studies, 40(2), pp. 361–370. It uses body mapping, drawing, collage, and found local materials to explore emotions connected to place and ecological experience. For this thesis, the source is useful because corridor life is not only visual or geographic. It is also felt through memory, movement, attachment, labour, displacement, and everyday routine.
+
+Together, these sources help frame the London-Sarnia corridor as an environment that is seen, felt, remembered, and remade through design. Place is not only a background for the project. It is part of the knowledge produced by the thesis. The expanded Latin character set, posters, specimens, maps, and exhibition materials should therefore respond to the corridor as a lived visual ecology rather than as a generic location.
+
+## 6.6 Traditional Printing Methods and Letterpress
+
+Traditional printing methods are a key part of this thesis because they allow the expanded Latin character set to move from digital design into physical form. The project does not treat printing only as a final production stage. Instead, letterpress and related traditional printing processes become methods of material research. They help test how type behaves through surface, impression, scale, texture, repetition, and public display.
+
+Caroline Archer-Parré and James Mussell’s edited volume Letterpress Printing: Past, Present, Future is useful because it frames letterpress as both historical technology and contemporary practice. In their introduction, they explain that letterpress was the dominant mode of textual reproduction in the West for more than 500 years, but that its current revival is not simply nostalgic. It is also a way of preserving craft knowledge, experimenting with new technologies, and asking new questions about print in the digital age (Archer-Parré & Mussell, 2023, Introduction). This supports the thesis because the poster series uses traditional printing not to look backward, but to test how a contemporary co-designed type system changes through material production.
+
+D. F. McKenzie’s Bibliography and the Sociology of Texts is also central here. McKenzie argues that the physical form of a text affects its meaning, and that bibliography should study not only books, but also visual, oral, numeric, graphic, and material forms of communication. The most relevant section is “Bibliography and the Sociology of Texts” (pp. 7–76), especially the discussion that “forms effect meaning” around p. 13 (McKenzie, 1999). This helps frame the printed poster as more than a surface that carries the alphabet. The poster’s paper, impression, scale, editioning, and production process become part of what the type means.
+
+Johanna Drucker is useful for connecting print, materiality, and artists’ books. Her The Century of Artists’ Books studies artists’ books through structure, form, sequence, and conceptualization, which can support the way this thesis treats posters, specimens, and process documentation as research objects rather than only presentation formats (Drucker, 1995/2004). Her chapter “Letterpress Aesthetics” in Letterpress Printing: Past, Present, Future is especially relevant for thinking about letterpress as a visual and material language, not only a technical process.
+
+Dori Griffin’s Type Specimens: A Visual History of Typesetting and Printing can support the specimen and poster components of the thesis. Griffin studies type specimens, broadsides, printers’ manuals, posters, and ephemera as objects that show how letterforms, printing technologies, and typographic practice develop over time. This is useful because the thesis will produce specimens and posters not only to show the expanded Latin character set, but also to test spacing, weight, rhythm, accents, punctuation, and material behaviour (Griffin, 2021/2022).
+
+Walter Benjamin’s “The Work of Art in the Age of Its Technological Reproducibility” can support the discussion of reproduction, circulation, and editioning. His essay is useful for thinking about how printed works change meaning when they are reproduced and circulated publicly. In this thesis, the poster is repeatable because it belongs to an edition, but it is also singular because each print can carry small differences of pressure, surface, texture, and registration (Benjamin, 2008, pp. 19–55).
+
+This section also connects to my personal history. My family has owned and worked with print shops for more than three generations, so traditional printing is not only a technical method in this thesis. It is connected to labour, craft knowledge, ancestry, touch, and memory. The press, plate, paper, proof, and printed surface become part of how I understand typography as something made through hands, tools, repetition, correction, and care.
+
+The poster series will use the expanded Latin character set to test how printed type can carry memory, place, and cultural presence. These posters may include alphabet specimens, type weight tests, participant-informed words, corridor references, illustrative posters of participants, and process documentation. Each printed work will help evaluate how the character set performs outside the screen and how it changes when it enters a public, physical, and reproducible format.
+
+Traditional printing therefore becomes a way of thinking through ancestry, labour, touch, and memory. It connects contemporary type design with older forms of making, while allowing the thesis to ask how a co-designed alphabet can become both a working typographic system and a material record of lived experience.
+
+
 
 ---
 
@@ -476,20 +520,22 @@ The testing process may include:
 
 This method is necessary because the project makes claims about typographic quality and multilingual readability. Those claims must be tested through typographic mechanics.
 
-## 6.6 Heidelberg Windmill Platen Press poster methodology
+## 6.6 Traditional printing and letterpress poster methodology
 
 The Heidelberg Windmill poster process will be treated as a supervised printmaking research method. The aim is not to provide a machine operation manual. The press is industrial equipment and should only be used with proper training, facility approval, and expert supervision. In the thesis, the important point is the research value of the process: how the alphabet changes when it enters relief printing.
 
 ### 6.6.1 Why the Heidelberg Windmill matters to the thesis
 
-The Heidelberg Windmill Platen Press is significant because it brings together typography, reproduction, mechanical rhythm, pressure, labour, and editioning. The machine is associated with commercial print production, but in this thesis it becomes a research tool. It allows the alphabet to become a physical impression, not only a digital outline.
+Traditional printing and letterpress processes are significant because they bring together typography, reproduction, mechanical rhythm, pressure, labour, and editioning. These processes are often associated with commercial print production, but in this thesis they become research tools. They allow the expanded Latin character set to become a physical impression, not only a digital outline.
 
-The Windmill process is especially relevant for four reasons:
+Traditional printing and letterpress are especially relevant for four reasons:
 
-1. **Reproducibility:** The alphabet can be printed in multiples, creating a public edition.
-2. **Materiality:** The ink, paper, plate, and pressure create a tactile record.
-3. **Translation:** The type moves from digital design into relief printing, revealing changes in edge, density, and rhythm.
-4. **Archive:** Proofs, plates, make-ready sheets, and final posters become archival evidence of process.
+1. Reproducibility: The character set can be printed in multiples, creating a public edition.
+2. Materiality: The printed surface creates a tactile record through paper, ink, pressure, texture, and impression.
+3. Translation: The type moves from digital design into physical printing, revealing changes in edge quality, density, rhythm, and scale.
+4. Archive: Each proof, test, correction, and final print becomes part of the project’s process archive.
+
+This process matters because the thesis studies typography as both a working system and a material form of knowledge. Traditional printing allows the project to test how letterforms behave when they enter a physical process of pressure, repetition, and public display. It also connects the thesis to ancestry, labour, touch, memory, and my family’s history with print shops across more than three generations.
 
 ### 6.6.2 Poster production stages
 
@@ -530,7 +576,7 @@ The poster content will come from the research process. Possible content include
 - The full co-designed alphabet.
 - Participant-informed words or phrases, only with consent.
 - Place names from the corridor.
-- Bilingual or multilingual text fragments.
+- Participants’ ways of living, seeing, remembering, and moving through place.
 - Signs, routes, or object references translated into typographic composition.
 - Short statements about language, home, movement, or belonging.
 
@@ -573,22 +619,7 @@ Material variables to document:
 
 These tests will become part of the thesis evidence. Rejected prints are not failures only. They show how the material process thinks with the alphabet.
 
-### 6.6.7 Stage 5: Technician-supervised proofing and editioning
-
-The press proofing stage will be conducted with a trained technician or experienced letterpress printer. The research focus will be observation, documentation, and design decision-making. The process may include proof sheets, adjustments, comparison of impression, and selection of final settings.
-
-The final edition may include:
-
-- Numbered edition prints.
-- Artist proofs.
-- Test proofs.
-- Process sheets.
-- One or more archive copies.
-- Documentation photographs.
-
-The edition should include notes on paper, ink, plate, date, location, and production context. These notes will help the posters function as part of the archive.
-
-### 6.6.8 Stage 6: Analysis of the printed outcome
+### 6.6.7 Stage 6: Analysis of the printed outcome
 
 After printing, the posters will be analyzed through both formal and reflective criteria.
 
@@ -653,10 +684,9 @@ The project will require:
 - Ethics guidance for participant-based research.
 - Latino participants along the London-Sarnia corridor.
 - Printmaking technicians.
-- A trained letterpress or Heidelberg Windmill operator.
 - Type design feedback from faculty, peers, or outside specialists.
-- Possible host institution support if part of the research is conducted outside Canada.
-- Conversations with makers from other material practices, such as Gordon Boyd’s glass work, to think across craft, pressure, transparency, material resistance, and decolonizing process.
+- May use a possible host institution support if part of the research is conducted outside Canada.
+- Conversations with makers from other material practices, such as **Gordon Boyd’s glass work**, to think across craft, pressure, transparency, material resistance, and decolonizing process.
 
 ## 7.2 Facilities
 
@@ -681,7 +711,7 @@ Possible equipment includes:
 - Audio recorder for interviews, if approved.
 - Scanner for sketches, prints, and archival references.
 - Printer for proofing.
-- Heidelberg Windmill Platen Press, used only under trained supervision.
+- Heidelberg Windmill Platen Press
 - Plate base and appropriate relief printing plate.
 - Drying racks.
 - Cutting tools operated within studio safety rules.
@@ -729,9 +759,9 @@ The project will require access to:
 
 | Resource area | What is needed | Why it matters |
 |---|---|---|
-| Participants | 4 to 7 Latino residents along the corridor | Supports co-design, situated knowledge, and ethical representation |
+| Participants | 3 Latino residents along the corridor | Supports co-design, situated knowledge, and ethical representation |
 | Type design software | Glyphs, RoboFont, Fontra Pak, FontGoggles | Allows drawing, spacing, interpolation, proofing, and export |
-| Printmaking facility | Heidelberg Windmill access with expert supervision | Enables alphabet poster production as material research |
+| Printmaking facility | Heidelberg Windmill or letterpress machine | Enables alphabet poster production as material research |
 | Materials | Paper, ink, plates, proofs, storage | Allows testing of texture, pressure, editioning, and archival quality |
 | Documentation | Camera, scanner, notes, process archive | Preserves research evidence and supports thesis analysis |
 | Exhibition space | Wall, tables, screens, frames, labels | Presents final work and process as research-creation |
@@ -770,13 +800,13 @@ To manage scope, the project should prioritize:
 
 Motion and variable font experiments should support the thesis, not distract from the core argument.
 
-## 8.3 Access to Heidelberg Windmill facilities
+## 8.3 Access to traditonal print and letterpress facilities
 
 Access to a Heidelberg Windmill Platen Press may be limited by location, availability, cost, technician time, safety requirements, and scheduling. Since the press is specialized industrial equipment, it cannot be used casually or independently without training and supervision.
 
 Possible strategies:
 
-- Identify a facility early.
+- My family owns a Heidelberg Windmill machine in Quito, Ecuador.
 - Confirm technician or printer availability.
 - Build the poster schedule around access dates.
 - Prepare digital files and test plates before the session.
@@ -798,13 +828,8 @@ Potential limitations include:
 
 To address this, the project should set a realistic glyph scope and prioritize characters needed for the research.
 
-## 8.5 Multilingual complexity
 
-Latino communities are not linguistically uniform. Participants may use Spanish, English, Spanglish, Portuguese, Indigenous languages, regional expressions, slang, or mixed forms of communication. The project cannot represent all Latino language experience.
-
-The thesis should be honest about this limitation. It should frame the alphabet as situated and partial, not universal. It should say clearly that the work emerges from a specific group of participants and a specific corridor context.
-
-## 8.6 Risk of aestheticizing community experience
+## 8.5 Risk of aestheticizing community experience
 
 Letterpress posters can be visually beautiful. This beauty can be powerful, but it can also create risk. The material charm of ink, paper, and impression may make difficult experiences look polished or consumable. The project must be careful not to transform participant stories into decorative artifacts detached from context.
 
@@ -816,7 +841,7 @@ Strategies include:
 - Making clear what is co-designed, interpreted, anonymized, or speculative.
 - Including reflections on what cannot or should not be represented.
 
-## 8.7 Time and production constraints
+## 8.6 Time and production constraints
 
 Printmaking, especially editioned work, takes time. Plate production, proofing, drying, trimming, documentation, and installation must be scheduled carefully. If the posters include multiple colours, the process becomes more complex because each colour requires separate planning and registration.
 
@@ -830,7 +855,7 @@ A realistic production plan should include:
 - Documentation.
 - Installation planning.
 
-## 8.8 Research trustworthiness
+## 8.7 Research trustworthiness
 
 Because the project is qualitative and practice-based, the thesis must clearly explain how decisions are made. It should show how participant input leads to typographic decisions and where my own interpretation enters the work.
 
@@ -849,15 +874,15 @@ Strategies include:
 
 ## 9.1 Contribution to typography
 
-This project contributes to typography by treating type design as a situated and participatory research practice. It challenges the idea that typefaces are only formal systems made for neutral communication. Instead, it shows that alphabets can carry memory, place, language, and social relationships.
+This project contributes to typography by treating type design as a situated and participatory research practice. It challenges the idea that typefaces are only formal systems made for neutral communication. Instead, it shows that expanded Latin character sets can carry memory, place, visual culture, labour, and social relationships.
 
-The project also contributes to discussions of legibility and readability by asking how multilingual readers experience typography. It does not treat readability as a single universal standard. It asks how reading is shaped by familiarity, accent support, hierarchy, environment, and cultural recognition.
+The project also contributes to discussions of typographic meaning and material practice. The thesis asks how letterforms gain meaning through context, cultural recognition, participant input, and material translation. Through proofs, specimens, posters, traditional printing processes, motion studies, and exhibition design, the project examines how an expanded Latin character set can function as both a working typographic system and a situated visual language.
 
-## 9.2 Contribution to design research
+## 9.2 Contribution to design and art-base research creation
 
-The project contributes to research-creation and design research by connecting theory and making. It brings together interviews, visual mapping, type design, printmaking, and reflexive writing. It demonstrates how design artifacts can function as research evidence, not only as outcomes.
+The project contributes to arts-based research creation and design research by connecting theory and making. It brings together interviews, visual mapping, type design, traditional printing processes, and reflexive writing as interconnected methods. 
 
-The Heidelberg Windmill poster process is especially significant because it shows how material production can become a method of inquiry. The pressure, paper, ink, plate, and edition are not simply aesthetic choices. They help reveal how typography behaves as physical evidence.
+Rather than treating the final works only as outcomes, the thesis understands them as research evidence. The expanded Latin character set, posters, specimens, process documentation, and exhibition materials become ways of testing ideas, recording decisions, and showing how knowledge is produced through making.
 
 ## 9.3 Contribution to Latino representation in Southwestern Ontario
 
@@ -873,7 +898,7 @@ The project’s ethical significance lies in its attention to visibility. It rec
 
 ## 9.5 Contribution to printmaking and material culture
 
-The Heidelberg Windmill poster series contributes to printmaking by using letterpress not as nostalgia, but as a research tool. The posters connect contemporary digital type design to historical printing technology. This creates a dialogue between new media alphabets and older systems of mechanical reproduction.
+The traditional printing poster series contributes to printmaking by using letterpress not as nostalgia, but as a research tool. The posters connect contemporary digital type design to historical printing technology. This creates a dialogue between new media alphabets and older systems of mechanical reproduction.
 
 The project also contributes to material culture by showing how printed objects can carry memory, labour, and place. A poster is not only an image. It is paper, pressure, ink, edition, circulation, wall presence, and archive.
 
@@ -943,16 +968,19 @@ Questions to address:
 - How will regional expressions be handled?
 - Who approves translation choices?
 
-## 10.5 Relationship between Otavalo and the thesis alphabet
+## 10.5 Otavalo as a Project Reference
 
-Otavalo has been an important typeface exploration because it allowed experimentation with Andean textile references, monolinear construction, rhythm, printmaking, variable workflows, and exhibition display. In the thesis, Otavalo can function as a precedent or early research-creation engine. It shows how textile memory, material process, and letterform design can connect.
+Otavalo is not part of the final thesis outcome, but it is an important project reference. It demonstrates my previous experience with type design, Andean textile references, monolinear construction, rhythm, printmaking, variable workflows, and exhibition display. Through Otavalo, I developed practical knowledge in translating cultural memory, material process, and visual references into letterform design.
 
-However, the thesis should clarify whether Otavalo remains the central typeface or becomes a methodological precedent. If the final alphabet is developed with Latino residents along the London-Sarnia corridor, it should not simply repeat Otavalo’s visual language unless participants, context, and research justify that direction.
+For this thesis, Otavalo functions as a methodological precedent rather than a visual model. It shows that I already have experience working across type design, material testing, printmaking, and research-creation. However, the expanded Latin character set developed for this thesis will be a new project shaped by Latino participants along the London-Sarnia corridor.
 
-A useful distinction:
+The thesis character set should not repeat Otavalo’s visual language unless the research process, participants, and corridor context justify that direction. The goal is not to apply a previous style to a new community. Instead, the project will develop a situated typographic language through participant-informed research, typographic testing, and traditional printing processes.
 
-- **Otavalo as precedent:** a previous typeface exploration that taught methods of material testing, textile reference, printmaking, and variable font thinking.
-- **Thesis alphabet as situated outcome:** a new or expanded alphabet shaped by participants and corridor research.
+**A useful distinction:**
+
+**Otavalo as precedent:** a previous typeface exploration that demonstrates my experience with type design, cultural references, printmaking, variable font thinking, and exhibition-based research-creation.
+
+**Thesis character set as situated outcome:** a new expanded Latin character set shaped by participants, place, visual mapping, conversations, typographic testing, and material process.
 
 ## 10.6 Exhibition diagram
 
@@ -961,9 +989,6 @@ A useful distinction:
     |
     v
 Project title + central question
-    |
-    v
-Visual ecology wall: maps, photos, routes, reference fragments
     |
     v
 Co-design process: interviews, participant maps, sketches, consent decisions
@@ -1028,7 +1053,7 @@ Reflection area: what typography can archive, what remains unresolved
 7. **Making the alphabet**  
    Explain type design process, specimens, variable font testing, and participant feedback.
 
-8. **Printing the archive: Heidelberg Windmill posters**  
+8. **Printing the archive: letterpress posters**  
    Analyze the letterpress poster process, material translation, pressure, editioning, and exhibition.
 
 9. **Conclusion**  
@@ -1183,6 +1208,18 @@ Google Fonts. (n.d.). *Introducing variable fonts*. Google Fonts Knowledge.
 Microsoft. (2024). *OpenType font variations overview*. Microsoft Typography.
 
 TypeCooker. (2026). *TypeCooker*.
+
+## #11.8 Letterpress printing
+
+Archer-Parré & Mussell, Letterpress Printing: Past, Present, Future: use the Introduction, plus Johanna Drucker’s chapter “Letterpress Aesthetics.”
+
+McKenzie, Bibliography and the Sociology of Texts: use “Bibliography and the Sociology of Texts,” pp. 7–76, especially around p. 13.
+
+Drucker, The Century of Artists’ Books: use for artists’ books, sequence, form, materiality, and print as conceptual structure.
+
+Griffin, Type Specimens: use the Introduction and Chapter 1, “Broadsides.”
+
+Benjamin, “The Work of Art in the Age of Its Technological Reproducibility”: use pp. 19–55 in the 2008 Harvard/Belknap edition.
 
 ---
 
