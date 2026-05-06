@@ -451,17 +451,43 @@ Traditional printing therefore becomes a way of thinking through ancestry, labou
 
 # Section 06: Research methodology. What and why choosing this strategy?
 
-The methodology is research-creation, supported by qualitative methods, participatory design, visual mapping, typographic testing, printmaking, and reflexive writing. This strategy is appropriate because the thesis does not only ask a question through writing. It investigates through making.
+The methodology is research-creation, supported by primary research, secondary research, participatory design, visual mapping, typographic testing, traditional printing, documentation, and reflexive writing. This strategy is appropriate because the thesis does not only study typography through theory. It produces knowledge through making, testing, reviewing, printing, and reflecting.
 
-## 6.0 Secondary and Primary Reserach
+## 6.1 Primary and secondary research strategy
 
-## 6.1 Research-creation
+This thesis uses primary and secondary research together. Primary research will generate original material through conversations, visual mapping, participant workshops, typographic tests, printed proofs, documentation, and reflexive studio notes. Secondary research will give the project its theoretical, historical, and methodological framework.
+
+### Primary research
+
+Primary research will include semi-structured interviews, visual mapping, participatory typographic workshops, participant review, type testing, and material experiments with traditional printing. These methods will help identify the words, places, memories, signs, objects, and visual references that shape the expanded Latin character set.
+
+Primary research is necessary because the project is based on situated Latino experiences along the London-Sarnia corridor. The character set should not be built only from my assumptions or from existing design references. It should be informed by people, places, conversations, and material tests.
+
+Possible interview themes include:
+
+- Migration, settlement, and belonging.
+- Everyday movement along the corridor.
+- Places that feel important, familiar, or difficult.
+- Language practices used at home, work, school, online, and in public.
+- Signs, storefronts, handwritten notes, packaging, devotional objects, textiles, music, or digital messages that participants remember.
+- Feelings about visibility, representation, privacy, and public display.
+- What makes typography feel familiar, formal, trustworthy, cold, warm, official, beautiful, or alienating.
+
+### Secondary research
+
+Secondary research will include a focused literature review across typography, design research, ethics, place, materiality, diaspora, and print culture. This research will support the project by giving language to what the practice is testing.
+
+Key scholars and sources include Rob Waller and Sofie Beier for typography as discourse and letterform research; Gerrit Noordzij, Jost Hochuli, and Cyrus Highsmith for stroke, spacing, detail, and paragraph structure; Gloria Anzaldúa, Sara Ahmed, Maurice Merleau-Ponty, and James J. Gibson for language, orientation, embodiment, and perception; Donna Haraway, Arturo Escobar, Schultz et al., and Rose-Redwood et al. for ethics, situated knowledge, decolonial design, and mapping; Kalra, Hutnyk, Kaur, Zakiya Luna, and Giuliana Bruno for diaspora, hybridity, place, and surface; and Walter Benjamin, D. F. McKenzie, Johanna Drucker, Dori Griffin, and Archer-Parré and Mussell for reproduction, material texts, specimens, artists’ books, and letterpress printing.
+
+Secondary research is not separate from the making process. It will be used to question design decisions, frame the analysis, and connect the final character set, posters, specimens, and exhibition to wider debates in typography, research-creation, and ethical representation.
+
+## 6.2 Research-creation
 
 Research-creation is the main methodological frame because the project produces knowledge through creative practice. The character set, posters, specimens, proofs, maps, and exhibition are not illustrations of research that already happened elsewhere. They are part of the research itself. Decisions about spacing, pressure, materials, glyph design, participant input, and exhibition layout will generate knowledge.
 
-This strategy is necessary because typography is a practice-based field. Questions about rhythm, texture, pressure, scale, visual recognition, and typographic clarity cannot be answered only through theoretical writing. They must be tested through drawing, printing, reading, looking, comparing, revising, and displaying.
+This strategy is necessary because typography is a practice-based field. Questions about rhythm, texture, pressure, scale, recognition, and typographic clarity must be tested through drawing, printing, reading, looking, comparing, revising, and displaying.
 
-In this thesis, co-design does not mean that participants are responsible for technical font production. Instead, it means that participants help shape the references, meanings, criteria, review process, and decisions that guide the expanded Latin character set. Participants may take part in one or more activities: a semi-structured conversation, a visual mapping exercise, a review of typographic sketches, and a response session with printed or digital proofs.
+In this thesis, co-design does not mean that participants are responsible for technical font production. Instead, participants help shape the references, meanings, criteria, review process, and decisions that guide the expanded Latin character set.
 
 The working sequence will move through the following stages:
 
@@ -491,39 +517,25 @@ Exhibition, documentation, and thesis reflection
 ```
 
 
-## 6.2 Semi-structured interviews
-
-Semi-structured interviews will allow participants to discuss their experiences of language, place, memory, and visual culture. The interviews should not be treated as extraction. They should be conversations that help identify meaningful references, words, objects, routes, places, and visual memories.
-
-Possible interview themes include:
-
-- Migration, settlement, and belonging.
-- Everyday movement along the corridor.
-- Places that feel important, familiar, or difficult.
-- Language practices used at home, work, school, online, and in public.
-- Signs, storefronts, handwritten notes, packaging, devotional objects, textiles, music, or digital messages that participants remember.
-- Feelings about visibility, representation, privacy, and public display.
-- What makes typography feel familiar, formal, trustworthy, cold, warm, official, beautiful, or alienating.
-
-Semi-structured interviews are appropriate because they offer enough structure to connect responses to the research questions, while leaving room for unexpected stories and references.
-
 ## 6.3 Visual mapping and participant reference gathering
 
 Visual mapping will help connect memory, place, and form. Participants may be invited to map routes, places, signs, words, colours, textures, or objects that matter to them. They may also bring or describe visual references. This method is useful because it allows the character set to emerge from situated visual worlds rather than from my assumptions alone.
 
 Possible mapping activities include:
 
-- Route map: a map of regular movement through London, Sarnia, and surrounding areas.
+- Route map: regular movement through London, Sarnia, and surrounding areas.
 - Memory map: places connected to family, work, food, worship, study, care, or community.
 - Sign map: signs, storefronts, handwritten notes, labels, menus, or digital interfaces participants remember.
-- Language map: where participant expressions, accents, signs, and visual language practices appear.
+- Language map: where expressions, accents, signs, and visual language practices appear.
 - Feeling map: where participants feel visible, invisible, welcome, watched, comfortable, or displaced.
 
 The maps do not need to be cartographically precise. Their value is in showing relationships between place, memory, and visual reference.
 
 ## 6.4 Participatory typographic workshops
 
-Workshops will allow participants to respond to letterforms, compare visual directions, discuss typographic clarity, cultural recognition, and contribute to the criteria of quality. These workshops may include printed proofs, digital previews, word tests, character set sheets, and simple ranking or annotation activities.
+Participatory typographic workshops will function as Primary Research. They will generate original feedback from participants about letterforms, words, accents, spacing, visual tone, cultural recognition, and public presentation.
+
+Workshops will allow participants to respond to letterforms, compare visual directions, discuss typographic clarity, and contribute to the criteria of quality. These workshops may include printed proofs, digital previews, word tests, character set sheets, and simple ranking or annotation activities.
 
 Participants might be asked:
 
@@ -535,7 +547,7 @@ Participants might be asked:
 - What would you change before this becomes public?
 - What should not be included?
 
-The workshops are important because they shift participants from being sources to being evaluators and co-authors. They help answer the question of who defines good typography.
+The workshops are important because they shift participants from being sources to being evaluators and co-authors. They help answer the question of who defines good typography, while producing research evidence through comments, annotations, preferences, refusals, and revisions.
 
 ## 6.5 Type design and typographic mechanics testing
 
@@ -557,124 +569,20 @@ This method is necessary because the project makes claims about typographic qual
 
 ## 6.6 Traditional printing and letterpress poster methodology
 
-Traditional printing and letterpress poster production will be treated as a supervised printmaking research method. The aim is not to provide a machine operation manual. The process should only be developed with proper training, facility approval, and expert supervision. In the thesis, the important point is the research value of the process: how the expanded Latin character set changes when it enters physical printing.
+Traditional printing and letterpress will be used as a supervised material research method. The goal is not to describe machine operation in detail. The goal is to test what happens when the expanded Latin character set moves from digital outline into paper, ink, plate, pressure, repetition, and edition.
 
-### 6.6.1 Why traditional printing and letterpress matter to the thesis
+This strategy matters because printing changes the type. It can sharpen, soften, distort, deepen, or give physical presence to the letterforms. It also connects the thesis to reproduction, craft knowledge, labour, touch, memory, and my family history with print shops across more than three generations.
 
-Traditional printing and letterpress processes are significant because they bring together typography, reproduction, mechanical rhythm, pressure, labour, and editioning. These processes are often associated with commercial print production, but in this thesis they become research tools. They allow the expanded Latin character set to become a physical impression, not only a digital outline.
+The poster methodology will include:
 
-Traditional printing and letterpress are especially relevant for four reasons:
+1. Selecting poster content from participant-informed references, approved words, corridor places, and character set tests.
+2. Designing posters that test scale, accents, spacing, hierarchy, rhythm, and visual presence.
+3. Preparing digital files for a relief printing form such as a photopolymer plate, metal plate, or printing block.
+4. Producing supervised proofs to test paper, ink, pressure, registration, edge quality, and legibility.
+5. Printing a small edition and documenting variations, errors, corrections, and final decisions.
+6. Analyzing what the printed object reveals that the screen version does not.
 
-1. Reproducibility: The character set can be printed in multiples, creating a public edition.
-2. Materiality: The printed surface creates a tactile record through paper, ink, pressure, texture, and impression.
-3. Translation: The type moves from digital design into physical printing, revealing changes in edge quality, density, rhythm, and scale.
-4. Archive: Each proof, test, correction, and final print becomes part of the project’s process archive.
-
-This process matters because the thesis studies typography as both a working system and a material form of knowledge. Traditional printing allows the project to test how letterforms behave when they enter a physical process of pressure, repetition, and public display. It also connects the thesis to ancestry, labour, touch, memory, and my family’s history with print shops across more than three generations.
-
-### 6.6.2 Poster production stages
-
-The poster process will be organized as a research workflow:
-
-```text
-Participant references and stories
-        |
-        v
-Character set design and glyph development
-        |
-        v
-Poster system: character set, words, routes, and participant-informed text
-        |
-        v
-Digital prepress: vector artwork, separations, plate planning
-        |
-        v
-Relief printing form: photopolymer plate, metal plate, or mounted printing plate
-        |
-        v
-Technician-supervised letterpress setup, proofing, and printing
-        |
-        v
-Test prints: ink, pressure, registration, paper, and clarity
-        |
-        v
-Editioned posters and artist proofs
-        |
-        v
-Documentation, reflection, exhibition, and thesis analysis
-```
-
-### 6.6.3 Stage 1: Selecting poster content
-
-The poster content will come from the research process. Possible content includes:
-
-- The full co-designed expanded Latin character set.
-- Participant-informed words or phrases, only with consent.
-- Place names from the corridor.
-- Participants’ ways of living, seeing, remembering, and moving through place.
-- Signs, routes, or object references translated into typographic composition.
-- Short statements about language, home, movement, or belonging.
-
-The content must be reviewed ethically. If a phrase comes from a participant, the participant should approve whether it can be printed, anonymized, translated, or excluded.
-
-### 6.6.4 Stage 2: Designing the poster system
-
-The poster system should test the expanded Latin character set in multiple ways. It should include display settings, text settings, large glyphs, small supporting text, accents, numerals, punctuation, and participant-informed hierarchy. The posters should not only be beautiful. They should also test the typeface.
-
-Design questions include:
-
-- What happens when the character set is printed very large?
-- Which details survive letterpress pressure?
-- Do diacritics remain visible?
-- Does the rhythm of the character set feel connected to the original references?
-- Can the poster hold both archive and public presence?
-- Does the poster feel like a specimen, a memory object, a public announcement, or all three?
-
-### 6.6.5 Stage 3: Translating digital type into a relief printing form
-
-The digital type must be prepared for relief printing. This may involve converting selected typography into vector outlines and producing a plate or other relief printing form. In letterpress contexts, the word often used for “cliché” is **printing plate**, **relief plate**, **photopolymer plate**, **metal plate**, or **printing block**, depending on the production method.
-
-This translation is conceptually important. A digital outline is clean, scalable, and editable. A relief plate fixes the form into a physical surface. Once the character set becomes a plate, it enters another logic: depth, ink transfer, pressure, and repetition. The thesis can analyze what is gained and what is lost in that translation.
-
-### 6.6.6 Stage 4: Paper, ink, and material tests
-
-Paper and ink will be selected as part of the research. Cotton rag paper, archival printmaking paper, or other substantial stocks may be tested for their ability to hold impression and ink. Different papers will change the character set’s edge quality, density, and tactile presence.
-
-Material variables to document:
-
-- Paper weight and texture.
-- Ink colour and density.
-- Impression depth.
-- Edge sharpness or softness.
-- Ink spread.
-- Drying time.
-- Registration accuracy.
-- Clarity of small details and accents.
-- Relationship between paper tone and typographic mood.
-
-These tests will become part of the thesis evidence. Rejected prints are not failures only. They show how the material process thinks with the character set.
-
-### 6.6.7 Stage 5: Analysis of the printed outcome
-
-After printing, the posters will be analyzed through both formal and reflective criteria.
-
-Formal analysis:
-
-- Did the character set retain clarity and presence?
-- Did the pressure improve or distort the form?
-- How did the edge quality change?
-- How did paper texture affect rhythm?
-- Did the accents, punctuation, and small details survive?
-- Did the poster communicate the intended hierarchy?
-
-Reflective analysis:
-
-- What did the press reveal that the screen did not?
-- Did the printed object feel more archival, public, intimate, or institutional?
-- Did the process change how I understand the character set?
-- What did repetition and editioning do to the idea of testimony?
-- Did the material beauty of letterpress risk aestheticizing the participant material?
-- How can the exhibition show process without overexposing participant stories?
+The research evidence will include digital files, plate proofs, test prints, rejected prints, registration tests, material notes, final posters, photographs, and reflections. These materials will help evaluate how the character set performs as a physical, public, and archival object.
 
 ## 6.7 Documentation as method
 

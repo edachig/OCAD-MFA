@@ -341,7 +341,7 @@ The final objective is to produce a coherent thesis exhibition and written paper
 
 # Section 05: Theoretical and critical backgrounds
 
-The theoretical background of this thesis is organized through six areas that correspond to the project’s research questions.
+The theoretical background of this thesis is organized through six areas that correspond to the project’s research questions. An additional audiovisual secondary research strand, drawn from BIPOC Design History’s *Incomplete Latinx Stories of Diseño Gráfico: Borderlands/La Frontera*, supports these areas by bringing Latinx and Latin American design histories into the proposal.
 
 ## 5.1 Typography as archive, testimony, and discourse
 
@@ -354,6 +354,8 @@ Raphaël Ouellet’s “From Forms to Form: Contemporary Art and the Practice of
 The project also connects to protest typography and public voice. Strikethrough: Typographic Messages of Protest is useful because it frames lettering, type, posters, and printed ephemera as tools for resistance, visibility, and collective memory (Munro, 2022). Protest Cultures: A Companion can support this section through chapters such as “Posters and Placards” and “Typography and Text Design,” which connect protest to graphic form, public messaging, and the visual organization of dissent (Demarmels, 2016, pp. 233–242; Spitzmüller, 2016, pp. 259–263). 
 
 Even if this thesis is not only about protest, it is concerned with visibility, representation, and the politics of public messages. Posters are historically connected to calls, announcements, demands, celebrations, and public gathering. The printed typographic posters can therefore be understood as public works that claim presence.
+
+BIPOC Design History’s *Incomplete Latinx Stories of Diseño Gráfico: Borderlands/La Frontera* also supports this section as audiovisual secondary research. Juan Villanueva’s *On Typography and Language in Peru* is useful for connecting typography, language, visual culture, resistance, and liberation in Latin American design history. José R. Menéndez’s *Caribbean Contrast* is useful for understanding posters as social, political, cultural, and economic communication. Together, these lectures help frame typography and posters as public records rather than neutral design objects.
 
 ## 5.2 Typographic quality, power, and normativity
 
@@ -370,6 +372,8 @@ Sofia Vranou’s article “Performing the Subcultural Freak: Leigh Bowery’s P
 Within typography itself, Gerrit Noordzij and Jost Hochuli are important but different kinds of sources. Noordzij’s The Stroke: Theory of Writing helps explain that letterforms are built through tools, movement, contrast, direction, white space, and writing traditions (Noordzij, 2005/2019). This supports the thesis because it shows that typography is historically tied to the body, the hand, and inherited training. Hochuli’s Detail in Typography represents a precise professional tradition focused on letters, letterspacing, words, wordspacing, lines, linespacing, columns, and legibility (Hochuli, 2008/2015). Rather than rejecting Hochuli, the thesis can use him as a standard to examine and test. The question becomes: what happens when professional standards of typographic detail meet community-informed forms of reading, memory, and visual culture?
 
 Frank Chimero’s The Shape of Design can support the discussion of design judgment, process, and value. The most relevant chapters are “How and Why,” “Craft and Beauty,” “Improvisation and Limitations,” and “Context and Response” (Chimero, 2012). Chimero helps argue that design quality is not only technical. It is connected to intention, context, audience, response, and meaning. This supports the thesis by framing “good typography” as something that must be tested through both craft and situated use.
+
+Ahmed Ansari’s *Some Theoretical Considerations in Reading Latin American Design History* adds a Latin American design-history frame to this discussion. It supports the thesis by questioning how design histories are read, organized, and theorized through local philosophy, identity, material culture, and visual practice. Gaby Hernandez’s *Latinx Identities and Self-Reflection in Traditional Design Learning Spaces* also strengthens this section because it addresses the invisibility of Latin American and Latinx identities within design education. These sources help connect the critique of “good typography” to the politics of design canons and educational spaces.
 
 ## 5.3 Typographic mechanics, perception, and situated reading
 
@@ -388,6 +392,8 @@ Hochuli and Cyrus Highsmith are useful technical anchors. Jost Hochuli’s Detai
 
 Together, these sources allow the thesis to connect critical theory to practical typographic testing. Anzaldúa and Ahmed help frame language, orientation, and power. Merleau-Ponty and Gibson help frame embodied and ecological perception. Hochuli and Highsmith provide the technical language for testing spacing, rhythm, hierarchy, paragraph structure, and typographic texture within the expanded Latin character set.
 
+Villanueva’s *On Typography and Language in Peru* and Vanessa Zúñiga Tinizaray’s *Otros Susurros Desde los Andes* will be used as audiovisual precedents for thinking about typography as a historical, linguistic, and cultural system. Villanueva supports the connection between typography and language in Latin American visual culture. Zúñiga Tinizaray supports the translation of visual signs into contemporary typographic form through semiotic and morphological analysis. These examples are not models to copy, but they help frame how culturally situated visual references can inform type design decisions.
+
 ## 5.4 Ethical visibility, care, and non-extractive representation
 
 The fourth theoretical area addresses ethics, especially the problem of visibility. In this thesis, visibility is not automatically positive. A poster, font, map, or exhibition can celebrate community presence, but it can also expose, simplify, aestheticize, or misrepresent people’s lives. For that reason, the project must treat consent, participant review, anonymity, refusal, and circulation as part of the design method, not as secondary concerns.
@@ -403,6 +409,8 @@ Nora S. Vaage’s “What Ethics for Bioart?” is useful as a supporting source
 Sasha Luccioni’s work can be used if digital tools, AI, or computational processes enter the workflow. “Stable Bias: Evaluating Societal Representations in Diffusion Models” is relevant because it examines how image-generation systems can reproduce or intensify social bias and under-represent marginalized identities (Luccioni et al., 2023). “Misinformation by Omission: The Need for More Environmental Transparency in AI” is also useful because it argues that AI systems often lack transparency about costs, impacts, and resource demands (Luccioni et al., 2025). These sources can help the thesis address simplification, bias, extraction, and opacity if computational tools are used in the design process.
 
 The central ethical issue is that visibility can be double-edged. Public presentation can create recognition and presence, but it can also expose people to misreading, stereotyping, or unwanted attention. Ethical visibility is therefore not only about showing. It is about asking who controls the terms of showing, who can refuse, who reviews the work, and how the final character set, posters, maps, and exhibition circulate.
+
+Hernandez’s *Latinx Identities and Self-Reflection in Traditional Design Learning Spaces* also supports the reflexive part of this methodology by linking design education, erasure, self-reflection, and Latinx identity. Anna Parisi, Juan Pablo Rahal, and Silas Munro’s *On Queerness & Race in Brazilian Art & Design* can support the ethical visibility section as a comparative reference for how art and design challenge dominant narratives of race, identity, and representation. These sources help keep visibility connected to agency, positionality, and care.
 
 ## 5.5 Corridor life, diaspora, hybridity, and visual ecology
 
@@ -424,6 +432,8 @@ Celiane Camargo-Borges’s “Creativity and Imagination: Research as World Maki
 
 Watfern, Watson, Doran, and Vaughan’s “A Sad Tree: Visualising Ecological Emotions Through Bodies in Place” can support the affective dimension of place. The article appears in Visual Studies, 40(2), pp. 361–370. It uses body mapping, drawing, collage, and found local materials to explore emotions connected to place and ecological experience. For this thesis, the source is useful because corridor life is not only visual or geographic. It is also felt through memory, movement, attachment, labour, displacement, and everyday routine.
 
+Ramon Tejada and Carlos Avila’s *Arte y Diseño Latinx: Comunicación Cotidiana* is especially useful for this section because it examines how imagery, typography, local materials, audience, location, and language shape everyday communication in Latin America. The *Pecha Kucha: Latinx Diaspora in America* session also supports this section by presenting multiple Latinx diasporic perspectives, including migration, hybrid culture, religious imagery, printing, protest, and identity. These lectures help the thesis understand everyday visual culture as plural, situated, and connected to movement rather than as a fixed style.
+
 Together, these sources help frame the London-Sarnia corridor as an environment that is seen, felt, remembered, and remade through design. Place is not only a background for the project. It is part of the knowledge produced by the thesis. The expanded Latin character set, posters, specimens, maps, and exhibition materials should therefore respond to the corridor as a lived visual ecology rather than as a generic location.
 
 ## 5.6 Traditional Printing Methods and Letterpress Work
@@ -442,26 +452,72 @@ Walter Benjamin’s “The Work of Art in the Age of Its Technological Reproduci
 
 This section also connects to my personal history. My family has owned and worked with print shops for more than three generations, so traditional printing is not only a technical method in this thesis. It is connected to labour, craft knowledge, ancestry, touch, and memory. The press, plate, paper, proof, and printed surface become part of how I understand typography as something made through hands, tools, repetition, correction, and care.
 
-The poster series will use the expanded Latin character set to test how printed type can carry memory, place, and cultural presence. These posters may include character set specimens, type weight tests, participant-informed words, corridor references, illustrative posters of participants, and process documentation. Each printed work will help evaluate how the character set performs outside the screen and how it changes when it enters a public, physical, and reproducible format.
+The poster series will test the expanded Latin character set outside the screen through specimens, participant-informed words, corridor references, and process documentation. This section will analyze how traditional printing changes typographic meaning through pressure, scale, surface, editioning, and public circulation.
 
-Traditional printing therefore becomes a way of thinking through ancestry, labour, touch, and memory. It connects contemporary type design with older forms of making, while allowing the thesis to ask how a co-designed expanded Latin character set can become both a working typographic system and a material record of lived experience.
+
+## 5.7 Latinx design history as audiovisual secondary research
+
+A unique part of the secondary research will be BIPOC Design History’s *Incomplete Latinx Stories of Diseño Gráfico: Borderlands/La Frontera*. This course is useful because it centers Latinx and Latin American design histories from diasporic, critical, and community-based perspectives. It also connects directly to Gloria Anzaldúa’s border thinking, which is already important to the thesis.
+
+This source will not be used as a direct substitute for local participant research in Southwestern Ontario. Instead, it will help frame the broader design-history context around Latinx visual culture, typography, education, diaspora, posters, language, and self-representation. It will support the thesis as an audiovisual archive that expands the bibliography beyond conventional books and journal articles.
+
+The most relevant classes are:
+
+- *Arte y Diseño Latinx: Comunicación Cotidiana*, for everyday communication, typography, local materials, audience, location, and language.
+- *Some Theoretical Considerations in Reading Latin American Design History*, for theory, Latin American design history, identity, and material culture.
+- *Pecha Kucha: Latinx Diaspora in America*, for migration, hybrid visual culture, religious imagery, printing, protest, and diaspora.
+- *Diseñando Identidad: Community Education, Design, and Politics in Puerto Rico*, for design as public education, politics, cultural voice, and resistance.
+- *On Queerness & Race in Brazilian Art & Design*, for race, representation, identity, and visual language.
+- *Caribbean Contrast*, for Puerto Rican and Cuban posters as public, cultural, and political communication.
+- *Latinx Identities and Self-Reflection in Traditional Design Learning Spaces*, for reflexive writing, design education, and positionality.
+- *In/dependence: An Incomplete Survey of Cuban Design*, for design, politics, diaspora, nationalism, resistance, and liberation.
+- *On Typography and Language in Peru*, for typography, language, visual culture, and resistance in Latin America.
+- *Otros Susurros Desde los Andes*, for semiotic and morphological analysis of Andean visual signs and their translation into contemporary typographic form.
 
 
 ---
 
 # Section 06: Research methodology. What and why choosing this strategy?
 
-The methodology is research-creation, supported by qualitative methods, participatory design, visual mapping, typographic testing, printmaking, and reflexive writing. This strategy is appropriate because the thesis does not only ask a question through writing. It investigates through making.
+The methodology is research-creation, supported by primary research, secondary research, participatory design, visual mapping, typographic testing, traditional printing, documentation, and reflexive writing. This strategy is appropriate because the thesis does not only study typography through theory. It produces knowledge through making, testing, reviewing, printing, and reflecting.
 
-## 6.0 Secondary and Primary Reserach
+## 6.1 Primary and secondary research strategy
 
-## 6.1 Research-creation
+This thesis uses primary and secondary research together. Primary research will generate original material through conversations, visual mapping, participant workshops, typographic tests, printed proofs, documentation, and reflexive studio notes. Secondary research will give the project its theoretical, historical, and methodological framework.
+
+### Primary research
+
+Primary research will include semi-structured interviews, visual mapping, participatory typographic workshops, participant review, type testing, and material experiments with traditional printing. These methods will help identify the words, places, memories, signs, objects, and visual references that shape the expanded Latin character set.
+
+Primary research is necessary because the project is based on situated Latino experiences along the London-Sarnia corridor. The character set should not be built only from my assumptions or from existing design references. It should be informed by people, places, conversations, and material tests.
+
+Possible interview themes include:
+
+- Migration, settlement, and belonging.
+- Everyday movement along the corridor.
+- Places that feel important, familiar, or difficult.
+- Language practices used at home, work, school, online, and in public.
+- Signs, storefronts, handwritten notes, packaging, devotional objects, textiles, music, or digital messages that participants remember.
+- Feelings about visibility, representation, privacy, and public display.
+- What makes typography feel familiar, formal, trustworthy, cold, warm, official, beautiful, or alienating.
+
+### Secondary research
+
+Secondary research will include a focused literature review across typography, design research, ethics, place, materiality, diaspora, and print culture. This research will support the project by giving language to what the practice is testing.
+
+Key scholars and sources include Rob Waller and Sofie Beier for typography as discourse and letterform research; Gerrit Noordzij, Jost Hochuli, and Cyrus Highsmith for stroke, spacing, detail, and paragraph structure; Gloria Anzaldúa, Sara Ahmed, Maurice Merleau-Ponty, and James J. Gibson for language, orientation, embodiment, and perception; Donna Haraway, Arturo Escobar, Schultz et al., and Rose-Redwood et al. for ethics, situated knowledge, decolonial design, and mapping; Kalra, Hutnyk, Kaur, Zakiya Luna, and Giuliana Bruno for diaspora, hybridity, place, and surface; and Walter Benjamin, D. F. McKenzie, Johanna Drucker, Dori Griffin, and Archer-Parré and Mussell for reproduction, material texts, specimens, artists’ books, and letterpress printing.
+
+Secondary research will also include selected audiovisual lectures from BIPOC Design History’s *Incomplete Latinx Stories of Diseño Gráfico: Borderlands/La Frontera*. These videos will be treated as secondary research because they provide historical, theoretical, and practice-based perspectives on Latinx and Latin American design. They will help situate the thesis in relation to Latinx design history, while the primary research will remain focused on participants and visual life along the London-Sarnia corridor.
+
+Secondary research is not separate from the making process. It will be used to question design decisions, frame the analysis, and connect the final character set, posters, specimens, and exhibition to wider debates in typography, research-creation, and ethical representation.
+
+## 6.2 Research-creation
 
 Research-creation is the main methodological frame because the project produces knowledge through creative practice. The character set, posters, specimens, proofs, maps, and exhibition are not illustrations of research that already happened elsewhere. They are part of the research itself. Decisions about spacing, pressure, materials, glyph design, participant input, and exhibition layout will generate knowledge.
 
-This strategy is necessary because typography is a practice-based field. Questions about rhythm, texture, pressure, scale, visual recognition, and typographic clarity cannot be answered only through theoretical writing. They must be tested through drawing, printing, reading, looking, comparing, revising, and displaying.
+This strategy is necessary because typography is a practice-based field. Questions about rhythm, texture, pressure, scale, recognition, and typographic clarity must be tested through drawing, printing, reading, looking, comparing, revising, and displaying.
 
-In this thesis, co-design does not mean that participants are responsible for technical font production. Instead, it means that participants help shape the references, meanings, criteria, review process, and decisions that guide the expanded Latin character set. Participants may take part in one or more activities: a semi-structured conversation, a visual mapping exercise, a review of typographic sketches, and a response session with printed or digital proofs.
+In this thesis, co-design does not mean that participants are responsible for technical font production. Instead, participants help shape the references, meanings, criteria, review process, and decisions that guide the expanded Latin character set.
 
 The working sequence will move through the following stages:
 
@@ -491,39 +547,25 @@ Exhibition, documentation, and thesis reflection
 ```
 
 
-## 6.2 Semi-structured interviews
-
-Semi-structured interviews will allow participants to discuss their experiences of language, place, memory, and visual culture. The interviews should not be treated as extraction. They should be conversations that help identify meaningful references, words, objects, routes, places, and visual memories.
-
-Possible interview themes include:
-
-- Migration, settlement, and belonging.
-- Everyday movement along the corridor.
-- Places that feel important, familiar, or difficult.
-- Language practices used at home, work, school, online, and in public.
-- Signs, storefronts, handwritten notes, packaging, devotional objects, textiles, music, or digital messages that participants remember.
-- Feelings about visibility, representation, privacy, and public display.
-- What makes typography feel familiar, formal, trustworthy, cold, warm, official, beautiful, or alienating.
-
-Semi-structured interviews are appropriate because they offer enough structure to connect responses to the research questions, while leaving room for unexpected stories and references.
-
 ## 6.3 Visual mapping and participant reference gathering
 
 Visual mapping will help connect memory, place, and form. Participants may be invited to map routes, places, signs, words, colours, textures, or objects that matter to them. They may also bring or describe visual references. This method is useful because it allows the character set to emerge from situated visual worlds rather than from my assumptions alone.
 
 Possible mapping activities include:
 
-- Route map: a map of regular movement through London, Sarnia, and surrounding areas.
+- Route map: regular movement through London, Sarnia, and surrounding areas.
 - Memory map: places connected to family, work, food, worship, study, care, or community.
 - Sign map: signs, storefronts, handwritten notes, labels, menus, or digital interfaces participants remember.
-- Language map: where participant expressions, accents, signs, and visual language practices appear.
+- Language map: where expressions, accents, signs, and visual language practices appear.
 - Feeling map: where participants feel visible, invisible, welcome, watched, comfortable, or displaced.
 
 The maps do not need to be cartographically precise. Their value is in showing relationships between place, memory, and visual reference.
 
 ## 6.4 Participatory typographic workshops
 
-Workshops will allow participants to respond to letterforms, compare visual directions, discuss typographic clarity, cultural recognition, and contribute to the criteria of quality. These workshops may include printed proofs, digital previews, word tests, character set sheets, and simple ranking or annotation activities.
+Participatory typographic workshops will function as Primary Research. They will generate original feedback from participants about letterforms, words, accents, spacing, visual tone, cultural recognition, and public presentation.
+
+Workshops will allow participants to respond to letterforms, compare visual directions, discuss typographic clarity, and contribute to the criteria of quality. These workshops may include printed proofs, digital previews, word tests, character set sheets, and simple ranking or annotation activities.
 
 Participants might be asked:
 
@@ -535,7 +577,7 @@ Participants might be asked:
 - What would you change before this becomes public?
 - What should not be included?
 
-The workshops are important because they shift participants from being sources to being evaluators and co-authors. They help answer the question of who defines good typography.
+The workshops are important because they shift participants from being sources to being evaluators and co-authors. They help answer the question of who defines good typography, while producing research evidence through comments, annotations, preferences, refusals, and revisions.
 
 ## 6.5 Type design and typographic mechanics testing
 
@@ -557,124 +599,20 @@ This method is necessary because the project makes claims about typographic qual
 
 ## 6.6 Traditional printing and letterpress poster methodology
 
-Traditional printing and letterpress poster production will be treated as a supervised printmaking research method. The aim is not to provide a machine operation manual. The process should only be developed with proper training, facility approval, and expert supervision. In the thesis, the important point is the research value of the process: how the expanded Latin character set changes when it enters physical printing.
+Traditional printing and letterpress will be used as a supervised material research method. The goal is not to describe machine operation in detail. The goal is to test what happens when the expanded Latin character set moves from digital outline into paper, ink, plate, pressure, repetition, and edition.
 
-### 6.6.1 Why traditional printing and letterpress matter to the thesis
+This strategy matters because printing changes the type. It can sharpen, soften, distort, deepen, or give physical presence to the letterforms. It also connects the thesis to reproduction, craft knowledge, labour, touch, memory, and my family history with print shops across more than three generations.
 
-Traditional printing and letterpress processes are significant because they bring together typography, reproduction, mechanical rhythm, pressure, labour, and editioning. These processes are often associated with commercial print production, but in this thesis they become research tools. They allow the expanded Latin character set to become a physical impression, not only a digital outline.
+The poster methodology will include:
 
-Traditional printing and letterpress are especially relevant for four reasons:
+1. Selecting poster content from participant-informed references, approved words, corridor places, and character set tests.
+2. Designing posters that test scale, accents, spacing, hierarchy, rhythm, and visual presence.
+3. Preparing digital files for a relief printing form such as a photopolymer plate, metal plate, or printing block.
+4. Producing supervised proofs to test paper, ink, pressure, registration, edge quality, and legibility.
+5. Printing a small edition and documenting variations, errors, corrections, and final decisions.
+6. Analyzing what the printed object reveals that the screen version does not.
 
-1. Reproducibility: The character set can be printed in multiples, creating a public edition.
-2. Materiality: The printed surface creates a tactile record through paper, ink, pressure, texture, and impression.
-3. Translation: The type moves from digital design into physical printing, revealing changes in edge quality, density, rhythm, and scale.
-4. Archive: Each proof, test, correction, and final print becomes part of the project’s process archive.
-
-This process matters because the thesis studies typography as both a working system and a material form of knowledge. Traditional printing allows the project to test how letterforms behave when they enter a physical process of pressure, repetition, and public display. It also connects the thesis to ancestry, labour, touch, memory, and my family’s history with print shops across more than three generations.
-
-### 6.6.2 Poster production stages
-
-The poster process will be organized as a research workflow:
-
-```text
-Participant references and stories
-        |
-        v
-Character set design and glyph development
-        |
-        v
-Poster system: character set, words, routes, and participant-informed text
-        |
-        v
-Digital prepress: vector artwork, separations, plate planning
-        |
-        v
-Relief printing form: photopolymer plate, metal plate, or mounted printing plate
-        |
-        v
-Technician-supervised letterpress setup, proofing, and printing
-        |
-        v
-Test prints: ink, pressure, registration, paper, and clarity
-        |
-        v
-Editioned posters and artist proofs
-        |
-        v
-Documentation, reflection, exhibition, and thesis analysis
-```
-
-### 6.6.3 Stage 1: Selecting poster content
-
-The poster content will come from the research process. Possible content includes:
-
-- The full co-designed expanded Latin character set.
-- Participant-informed words or phrases, only with consent.
-- Place names from the corridor.
-- Participants’ ways of living, seeing, remembering, and moving through place.
-- Signs, routes, or object references translated into typographic composition.
-- Short statements about language, home, movement, or belonging.
-
-The content must be reviewed ethically. If a phrase comes from a participant, the participant should approve whether it can be printed, anonymized, translated, or excluded.
-
-### 6.6.4 Stage 2: Designing the poster system
-
-The poster system should test the expanded Latin character set in multiple ways. It should include display settings, text settings, large glyphs, small supporting text, accents, numerals, punctuation, and participant-informed hierarchy. The posters should not only be beautiful. They should also test the typeface.
-
-Design questions include:
-
-- What happens when the character set is printed very large?
-- Which details survive letterpress pressure?
-- Do diacritics remain visible?
-- Does the rhythm of the character set feel connected to the original references?
-- Can the poster hold both archive and public presence?
-- Does the poster feel like a specimen, a memory object, a public announcement, or all three?
-
-### 6.6.5 Stage 3: Translating digital type into a relief printing form
-
-The digital type must be prepared for relief printing. This may involve converting selected typography into vector outlines and producing a plate or other relief printing form. In letterpress contexts, the word often used for “cliché” is **printing plate**, **relief plate**, **photopolymer plate**, **metal plate**, or **printing block**, depending on the production method.
-
-This translation is conceptually important. A digital outline is clean, scalable, and editable. A relief plate fixes the form into a physical surface. Once the character set becomes a plate, it enters another logic: depth, ink transfer, pressure, and repetition. The thesis can analyze what is gained and what is lost in that translation.
-
-### 6.6.6 Stage 4: Paper, ink, and material tests
-
-Paper and ink will be selected as part of the research. Cotton rag paper, archival printmaking paper, or other substantial stocks may be tested for their ability to hold impression and ink. Different papers will change the character set’s edge quality, density, and tactile presence.
-
-Material variables to document:
-
-- Paper weight and texture.
-- Ink colour and density.
-- Impression depth.
-- Edge sharpness or softness.
-- Ink spread.
-- Drying time.
-- Registration accuracy.
-- Clarity of small details and accents.
-- Relationship between paper tone and typographic mood.
-
-These tests will become part of the thesis evidence. Rejected prints are not failures only. They show how the material process thinks with the character set.
-
-### 6.6.7 Stage 5: Analysis of the printed outcome
-
-After printing, the posters will be analyzed through both formal and reflective criteria.
-
-Formal analysis:
-
-- Did the character set retain clarity and presence?
-- Did the pressure improve or distort the form?
-- How did the edge quality change?
-- How did paper texture affect rhythm?
-- Did the accents, punctuation, and small details survive?
-- Did the poster communicate the intended hierarchy?
-
-Reflective analysis:
-
-- What did the press reveal that the screen did not?
-- Did the printed object feel more archival, public, intimate, or institutional?
-- Did the process change how I understand the character set?
-- What did repetition and editioning do to the idea of testimony?
-- Did the material beauty of letterpress risk aestheticizing the participant material?
-- How can the exhibition show process without overexposing participant stories?
+The research evidence will include digital files, plate proofs, test prints, rejected prints, registration tests, material notes, final posters, photographs, and reflections. These materials will help evaluate how the character set performs as a physical, public, and archival object.
 
 ## 6.7 Documentation as method
 
@@ -788,6 +726,7 @@ The project will require access to:
 - Research methods texts.
 - Decolonial design and ethical representation readings.
 - Archives or examples of protest posters, type specimens, vernacular typography, letterpress printing, and new media typography.
+- BIPOC Design History audiovisual lectures, especially *Incomplete Latinx Stories of Diseño Gráfico: Borderlands/La Frontera*.
 - Local visual research through field observation in London, Sarnia, and surrounding areas.
 
 ## 7.7 Resource matrix
@@ -915,7 +854,7 @@ The project also contributes to discussions of typographic meaning and material 
 
 ## 9.2 Contribution to design and arts-based research-creation
 
-The project contributes to arts-based research creation and design research by connecting theory and making. It brings together interviews, visual mapping, type design, traditional printing processes, and reflexive writing as interconnected methods. 
+The project contributes to arts-based research-creation and design research by connecting theory and making. It brings together interviews, visual mapping, type design, traditional printing processes, and reflexive writing as interconnected methods. 
 
 Rather than treating the final works only as outcomes, the thesis understands them as research evidence. The expanded Latin character set, posters, specimens, process documentation, and exhibition materials become ways of testing ideas, recording decisions, and showing how knowledge is produced through making.
 
@@ -1009,7 +948,7 @@ Otavalo is not part of the final thesis outcome, but it is an important project 
 
 For this thesis, Otavalo functions as a methodological precedent rather than a visual model. It shows that I already have experience working across type design, material testing, printmaking, and research-creation. However, the expanded Latin character set developed for this thesis will be a new project shaped by Latino participants along the London-Sarnia corridor.
 
-The thesis character set should not repeat Otavalo’s visual language unless the research process, participants, and corridor context justify that direction. The goal is not to apply a previous style to a new community. Instead, the project will develop a situated typographic language through participant-informed research, typographic testing, and traditional printing processes.
+The thesis character set should not repeat Otavalo’s visual language unless the research process, participants, and corridor context justify that direction. The goal is not to apply a previous style to a new community. Instead, the project will develop a situated typographic language through participant-informed research, typographic testing, and traditional printing processes. Zúñiga Tinizaray’s *Otros Susurros Desde los Andes* can help me frame Otavalo as a methodological precedent because it shows how cultural visual signs can be studied through semiotic and morphological analysis before being translated into typographic form. This reference will help clarify the difference between cultural inspiration, visual analysis, and direct appropriation.
 
 **A useful distinction:**
 
@@ -1252,6 +1191,31 @@ Griffin, Type Specimens: use the Introduction and Chapter 1, “Broadsides.”
 
 Benjamin, “The Work of Art in the Age of Its Technological Reproducibility”: use pp. 19–55 in the 2008 Harvard/Belknap edition.
 
+## 11.9 Audiovisual secondary research and Latinx design history
+
+BIPOC Design History. (2021). *Incomplete Latinx stories of diseño gráfico: Borderlands/La Frontera* [Online course]. Polymode.
+
+Ansari, A. (2021). *Some theoretical considerations in reading Latin American design history* [Online lecture]. BIPOC Design History.
+
+Balvanera, M. J., Castillo, P., Rodriguez, R., & Doronio Chavez, S. (2021). *Pecha Kucha: Latinx diaspora in America* [Online lecture]. BIPOC Design History.
+
+Hernandez, G. (2021). *Latinx identities and self-reflection in traditional design learning spaces* [Online lecture]. BIPOC Design History.
+
+Llorente, A., & Lopez, E. (2021). *In/dependence: An incomplete survey of Cuban design* [Online lecture]. BIPOC Design History.
+
+Menéndez, J. R. (2021). *Caribbean contrast: Puerto Rican and Cuban carteles and their representation of distinct political relationships with the United States* [Online lecture]. BIPOC Design History.
+
+Parisi, A., Rahal, J. P., & Munro, S. (2021). *On queerness & race in Brazilian art & design* [Online lecture]. BIPOC Design History.
+
+Rossi García, L., & Alejandro, J. (2021). *Diseñando identidad: Community education, design, and politics in Puerto Rico* [Online lecture]. BIPOC Design History.
+
+Tejada, R., & Avila, C. (2021). *Arte y diseño Latinx: Comunicación cotidiana* [Online lecture]. BIPOC Design History.
+
+Villanueva, J. (2021). *On typography and language in Peru* [Online lecture]. BIPOC Design History.
+
+Zúñiga Tinizaray, V. (2021). *Otros susurros desde los Andes* [Online lecture]. BIPOC Design History.
+
+
 ---
 
 # Appendix A: Traditional printing and letterpress poster process as research evidence
@@ -1284,3 +1248,20 @@ Benjamin, “The Work of Art in the Age of Its Technological Reproducibility”:
 **Research-creation:** A mode of inquiry where creative practice produces knowledge together with writing, theory, and analysis.
 
 **Visual ecology:** A way of understanding visual culture as part of a lived environment shaped by surfaces, movement, objects, signs, bodies, and memory.
+
+
+# Appendix C: BIPOC Design History course map
+
+| Class or video | Best proposal location | How it supports the thesis |
+|---|---|---|
+| *Incomplete Latinx Stories of Diseño Gráfico: Borderlands/La Frontera* | 5.7, 6.1, 11.9 | Frames Latinx and Latin American design history as audiovisual secondary research. |
+| *Arte y Diseño Latinx: Comunicación Cotidiana* | 5.5, 6.3, 6.4 | Supports everyday visual culture, local materials, audience, location, language, and participant reference gathering. |
+| *Some Theoretical Considerations in Reading Latin American Design History* | 5.2, 6.1 | Supports the critique of design-history canons and the need for Latin American theoretical frames. |
+| *Pecha Kucha: Latinx Diaspora in America* | 5.5, 10.1 | Supports diaspora, migration, hybrid visual culture, religious imagery, printing, protest, and identity. |
+| *Diseñando Identidad* | 5.1, 5.4, 9.4 | Supports design as community education, politics, resistance, and cultural voice. |
+| *On Queerness & Race in Brazilian Art & Design* | 5.4, 5.2 | Supports ethical visibility, race, identity, representation, and new visual languages. |
+| *Caribbean Contrast* | 5.1, 5.6, 9.5 | Supports posters as public, social, political, cultural, and economic communication. |
+| *Latinx Identities and Self-Reflection in Traditional Design Learning Spaces* | 4.6, 5.2, 6.8, 10.1 | Supports reflexive writing, positionality, design education, and the invisibility of Latinx identities in design canons. |
+| *In/dependence: An Incomplete Survey of Cuban Design* | 5.2, 5.5, 9.4 | Supports design as connected to politics, geography, nationalism, diaspora, resistance, and liberation. |
+| *On Typography and Language in Peru* | 5.1, 5.3, 6.5 | Supports typography, language, visual culture, resistance, and Latin American typographic history. |
+| *Otros Susurros Desde los Andes* | 5.3, 6.5, 10.5 | Supports semiotic and morphological analysis of visual signs and their translation into typographic form. |
